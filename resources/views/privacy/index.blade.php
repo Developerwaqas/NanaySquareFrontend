@@ -10,11 +10,15 @@
                     </div>
                     <div class="d-flex justify-content-center mt-4">
                         <div class="d-flex">
-                            <div class="color_theme font_size_15 font_weight_600 font_family_popins hover_effect text-uppercase">Home</div>
+                            <div
+                                class="color_theme font_size_15 font_weight_600 font_family_popins hover_effect text-uppercase">
+                                Home</div>
                             <div class="mx-3">
                                 <i class="fa-solid fa-angle-double-right"></i>
                             </div>
-                            <div class="color_purple font_size_15 font_weight_600 font_family_popins hover_effect text-uppercase">Privacy</div>
+                            <div
+                                class="color_purple font_size_15 font_weight_600 font_family_popins hover_effect text-uppercase">
+                                Privacy</div>
                         </div>
                     </div>
                 </div>

@@ -10,7 +10,7 @@
 <section class="">
     <div>
         <div class="container mt-25">
-            <div class="d-flex align-items-end justify-content-evenly">
+            <div class="d-flex align-items-end justify-content-between">
                 <div class="ml__19 d-none d-md-none d-lg-block">
                     <div class="floating">
                         <img src="{{ asset('asset/images/icon-1.png.png') }}" alt="book" class="img_book">

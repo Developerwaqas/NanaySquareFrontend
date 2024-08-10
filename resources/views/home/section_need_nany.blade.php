@@ -14,7 +14,8 @@
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="mx-5">
                             <div>
-                                <div class="bage_title font_size_15 font_family_popins font_weight_600 sm_mb_5">Need Nanny</div>
+                                <div class="bage_title font_size_15 font_family_popins font_weight_600 sm_mb_5">Need
+                                    Nanny</div>
                                 <div
                                     class="mt-3 font_size_50 font_wieght_400 line_height_60 font_family_Paytone color_light_blue">
                                     Need a nanny? what should do?</div>

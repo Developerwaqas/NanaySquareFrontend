@@ -37,7 +37,8 @@
                                         Sitters
                                     </div>
                                     <div class="color_dark_black font_weight_500 font_family_Popins font_size_16">
-                                        Date night sitters, occasional childcare, after school babysitters, and backup care
+                                        Date night sitters, occasional childcare, after school babysitters, and backup
+                                        care
                                         whenever
                                         you need.
                                     </div>
@@ -63,7 +64,8 @@
                                     <div class="font_family_Paytone font_size_25 font_weight_400 color_light_blue">Nanny
                                     </div>
                                     <div class="color_dark_black font_weight_500 font_family_Popins font_size_16">
-                                        Long term care arrangements for your little ones from experienced, passionate and
+                                        Long term care arrangements for your little ones from experienced, passionate
+                                        and
                                         caring
                                         nannies.
                                     </div>
@@ -91,7 +93,8 @@
                                             Senior Care
                                         </div>
                                         <div class="color_dark_black font_weight_500 font_family_Popins font_size_16">
-                                            At-home care for seniors, help with common everyday tasks, live comfortably in
+                                            At-home care for seniors, help with common everyday tasks, live comfortably
+                                            in
                                             your own
                                             home.
                                         </div>
