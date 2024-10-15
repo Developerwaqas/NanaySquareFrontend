@@ -7,7 +7,7 @@
                         <div>
                             <div class="mt-2">
                                 <div class="font_size_30 line_height_40 text-white font_weight_400 font_family_Paytone">
-                                    Contact</div>
+                                    Contacts</div>
                             </div>
 
 

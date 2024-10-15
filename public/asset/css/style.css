@@ -2457,6 +2457,16 @@ body {
     font-family: 'Poppins', sans-serif;
     font-size: 22px;
     font-style: normal;
+    font-weight: 500;
+    line-height: 27px;
+    /* 122.727% */
+}
+
+.title-blog-post-home {
+    color: #1D2150;
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+    font-style: normal;
     font-weight: 700;
     line-height: 27px;
     /* 122.727% */

@@ -255,7 +255,7 @@
                                 </div>
                             </div>
 
-                            <div class="title-blog-post">
+                            <div class="title-blog-post-home">
                                 Going Back To Work After Parental</div>
 
 
@@ -309,7 +309,7 @@
                                     </div>
                                 </div>
 
-                                <div class="title-blog-post">
+                                <div class="title-blog-post-home">
                                     Consider When Hiring a New Nanny</div>
 
 
@@ -364,7 +364,7 @@
                                     </div>
                                 </div>
 
-                                <div class="title-blog-post">
+                                <div class="title-blog-post-home">
                                     babysitter for a child with special
                                     needs</div>
 
@@ -381,7 +381,9 @@
             </div>
             <div class="d-flex justify-content-center mb-5 mt-4">
                 <div class="">
+                    <a href="/blogs" class="anker-style">
                     <button class="btn btn-primary-custom-blog" type="submit">Load More</button>
+                    </a>
                 </div>
             </div>
         </div>
