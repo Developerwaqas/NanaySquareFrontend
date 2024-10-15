@@ -29,7 +29,7 @@
     <div class="container mt-25">
         <div class="row p-25">
             <div class="col-md-8">
-                <section class="font_family_inter">
+                <section class="">
                     <div class="box">
                         <div>
                             <h1 class="font_size_22 font_weight_700 color_theme line_height_27">Nanny Square Privacy

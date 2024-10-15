@@ -23,13 +23,13 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link {{ request()->is('services') ? 'active' : '' }}"
-                            href="/#services">Services</a>
+                            href="/services">Services</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link {{ request()->is('help') ? 'active' : '' }}" href="/#help">Help</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link {{ request()->is('blog') ? 'active' : '' }}" href="/#blog">Blog</a>
+                        <a class="nav-link {{ request()->is('blog') ? 'active' : '' }}" href="/blogs">Blog</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link {{ request()->is('contact_us') ? 'active' : '' }}" href="/contact_us">Contact
@@ -58,11 +58,16 @@
                             </div>
                         </div>
                     </div>
+                    <div class="social_icons_container">
+                        <div class="d-flex justify-content-center">
+                            <div class="vertically_midle">
+                                <i class='bx bx-globe color_theme icons_size_contact'></i>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div class="d-flex ms-lg-auto">
-                    <div class="p_3 mt-3">
-                        <i class="fa-solid fa-magnifying-glass search_icon"></i>
-                    </div>
+                    <button class="btn btn-primary-custom-login" type="submit">login</button>
                     <button class="btn btn-primary-custom" type="submit">Register</button>
                 </div>
             </div>
@@ -124,11 +129,16 @@
                         </div>
                     </div>
                 </div>
-                <div class="mx-5 mt-2">
-                    <i class="fa-solid fa-magnifying-glass search_icon"></i>
+                <div class="social_icons_container">
+                    <div class="d-flex justify-content-center">
+                        <div class="vertically_midle">
+                            <i class='bx bx-globe color_theme icons_size_contact'></i>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="d-flex ms-lg-auto mt-4">
+                <button class="btn btn-primary-custom-login" type="submit">login</button>
                 <button class="btn btn-primary-custom" type="submit">Register</button>
             </div>
         </div>

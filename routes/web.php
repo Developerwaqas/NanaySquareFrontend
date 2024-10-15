@@ -30,3 +30,19 @@ Route::get('/about_us', function () {
 Route::get('/', function () {
     return view('home.index');
 });
+
+Route::get('/services', function () {
+    return view('services.index');
+});
+
+Route::get('/services/details', function () {
+    return view('services.details.index');
+});
+
+Route::get('/blogs', function () {
+    return view('blogs.index');
+});
+
+Route::get('/blogs/details', function () {
+    return view('blogs.details.index');
+});

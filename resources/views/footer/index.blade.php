@@ -75,14 +75,16 @@
                             <img src="{{ asset('asset/images/Logo.png') }}" alt="logo" class="logo_footer" />
                         </div>
                         <div class="mt-5 d-flex justify-content-between text-white font_size_16 font_family_popins">
-                            <div>Home</div>
-                            <div>Service</div>
-                            <div>About Us</div>
+                            <div>
+                                <a href="/" class="anker">Home</a>
+                            </div>
+                            <div><a href="/services" class="anker">Service</a></div>
+                            <div><a href="/about_us" class="anker">About Us</a></div>
                         </div>
                         <div class="mt-4 d-flex justify-content-between text-white font_size_16 font_family_popins">
-                            <div>Blog</div>
-                            <div>Contact us</div>
-                            <div>Projects</div>
+                            <div><a href="/blogs" class="anker">Blog</a></div>
+                            <div><a href="/contact_us" class="anker">Contact us</a></div>
+                            <div><a href="/#projects" class="anker">Projects</a></div>
                         </div>
                         <div class="d-flex justify-content-center">
                             <div class="mt-5 d-flex">

@@ -2,7 +2,9 @@
 @section('content')
 @include('home.home_slider')
 @include('home.section_what_we_do')
-@include('home.section_need_nany')
+<div class="mt-5">
+    @include('home.section_need_nany')
+</div>
 
 @include('home.work_section')
 {{-- Want toBecome Nanny --}}
@@ -11,11 +13,7 @@
     <div>
         <div class="container mt-25">
             <div class="d-flex align-items-end justify-content-between">
-                <div class="ml__19 d-none d-md-none d-lg-block">
-                    <div class="floating">
-                        <img src="{{ asset('asset/images/icon-1.png.png') }}" alt="book" class="img_book">
-                    </div>
-                </div>
+
                 <div class="bg_nanay_section">
                     <div class="row align-items-center">
                         <div class="col-md-5">
@@ -30,7 +28,7 @@
                                     <div class="bage_title font_size_15 font_family_popins font_weight_600">Become Nanny
                                     </div>
                                     <div
-                                        class="mt-3 font_size_50 font_wieght_400 line_height_60 font_family_Paytone color_light_blue">
+                                        class="mt-3 font_size_50 font_weight_600 line_height_60 font_family_popins color_light_blue">
                                         Want toBecome Nanny</div>
 
                                 </div>
@@ -70,7 +68,7 @@
                                             <div
                                                 class="font_size_26 font_weight_400 color_light_blue font_family_Paytone">
                                                 Need
-                                                Go to Nannysquare.com
+                                                Go to <span class="text-info">Nannysquare.com</span>
                                             </div>
                                             <div
                                                 class="grey_200 font_size_15 font_family_popins font_weight_400 line_height_25">
@@ -209,314 +207,185 @@
     @include('home.section_testimanial')
 </div>
 
-<section class="mt-5 mb-5" id="blog">
+<section class="blog-mt-150 mb-5" id="blog">
     <div class="container">
         <div class="d-flex justify-content-center">
             <div class="bage_title font_size_15 font_family_popins font_weight_600">blog post</div>
         </div>
         <div class="text-center">
-            <div class="mt-3 font_size_50 font_wieght_400 line_height_60 font_family_Paytone color_light_blue">
+            <div class="mt-3 font_size_50 font_weight_600 line_height_60 font_family_popins color_light_blue">
                 Our Recent Update</div>
         </div>
-        <div class="floating rotating_img_container">
-            <img src="{{ asset('asset/images/icon-1.png.png') }}" alt="icon" class="rotate-image">
-        </div>
-
-        <div class="mb_100">
-
-            <div class="slide-container swiper">
-                <div class="slide-content">
-                    <div class="card-wrapper swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="mb_100">
-                                <div class="">
-                                    <div>
-                                        <div class="image-container"><img
-                                                src="{{ asset('asset/images/service-img6-800x600.jpg.png') }}" alt="img"
-                                                class="services_slider_img">
-                                            <div class="date-box">
-                                                <div
-                                                    class="date font_size_18 font_weight_600 font_family_Popins line_height_18">
-                                                    04
-                                                </div>
-                                                <div
-                                                    class="date font_size_14 font_weight_400 font_family_Popins line_height_20">
-                                                    Aug
-                                                </div>
-                                            </div>
-                                        </div>
+        <div class="container mt-5">
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4">
+                    <div class="">
+                        <div>
+                            <div class="image-container"><img src="{{ asset('asset/images/service-img6-800x600.jpg.png') }}"
+                                    alt="img" class="services_slider_img">
+                                <div class="date-box">
+                                    <div class="date font_size_18 font_weight_600 font_family_Popins line_height_18">
+                                        04
                                     </div>
-                                    <div>
-                                        <div class="d-flex mt-3 mb-2">
-                                            <div class="d-flex">
-                                                <div><img src="{{ asset('asset/images/user.png') }}" alt="img"
-                                                        class="user_img_size">
-                                                </div>
-                                                <div
-                                                    class="grey_200 font_weight_500 font_family_Popins font_size_14 mx-2">
-                                                    admin</div>
-                                            </div>
-                                            <div class="d-flex">
-                                                <div><img src="{{ asset('asset/images/book.png') }}" alt="img"
-                                                        class="user_img_size">
-                                                </div>
-                                                <div
-                                                    class="grey_200 font_weight_500 font_family_Popins font_size_14 mx-2">
-                                                    nany</div>
-                                            </div>
-                                            <div class="d-flex">
-                                                <div><img src="{{ asset('asset/images/message.png') }}" alt="img"
-                                                        class="user_img_size">
-                                                </div>
-                                                <div
-                                                    class="grey_200 font_weight_500 font_family_Popins font_size_14 mx-2">
-                                                    0</div>
-                                            </div>
-                                        </div>
-
-                                        <div class="font_family_Paytone font_size_21 font_weight_400 color_light_blue">
-                                            Going Back To
-                                            Work After Parental</div>
-
-
-                                        <div class="grey_200 font_weight_500 font_family_Popins font_size_15 mt-4">
-                                            Holistically pontificate installed base portals after
-                                            maintainable products.
-                                        </div>
-
+                                    <div class="date font_size_14 font_weight_400 font_family_Popins line_height_20">
+                                        Aug
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide">
-                            <div class="">
-                                <div class="">
-                                    <div>
-                                        <div class="image-container"><img
-                                                src="{{ asset('asset/images/project-img3-800x600.jpg.png') }}" alt="img"
-                                                class="services_slider_img">
-                                            <div class="date-box-purple">
-                                                <div
-                                                    class="date font_size_18 font_weight_600 font_family_Popins line_height_18">
-                                                    03
-                                                </div>
-                                                <div
-                                                    class="date font_size_14 font_weight_400 font_family_Popins line_height_20">
-                                                    Aug
-                                                </div>
-                                            </div>
-                                        </div>
+                        <div>
+                            <div class="d-flex mt-3 mb-2">
+                                <div class="d-flex">
+                                    <div><img src="{{ asset('asset/images/user.png') }}" alt="img" class="user_img_size">
                                     </div>
-                                    <div>
-                                        <div class="d-flex mt-3 mb-2">
-                                            <div class="d-flex">
-                                                <div><img src="{{ asset('asset/images/user.png') }}" alt="img"
-                                                        class="user_img_size">
-                                                </div>
-                                                <div
-                                                    class="grey_200 font_weight_500 font_family_Popins font_size_14 mx-2">
-                                                    admin</div>
-                                            </div>
-                                            <div class="d-flex">
-                                                <div><img src="{{ asset('asset/images/book.png') }}" alt="img"
-                                                        class="user_img_size">
-                                                </div>
-                                                <div
-                                                    class="grey_200 font_weight_500 font_family_Popins font_size_14 mx-2">
-                                                    nany</div>
-                                            </div>
-                                            <div class="d-flex">
-                                                <div><img src="{{ asset('asset/images/message.png') }}" alt="img"
-                                                        class="user_img_size">
-                                                </div>
-                                                <div
-                                                    class="grey_200 font_weight_500 font_family_Popins font_size_14 mx-2">
-                                                    0</div>
-                                            </div>
+                                    <div class="grey_200 font_weight_500 font_family_Popins font_size_14 mx-2">
+                                        admin</div>
+                                </div>
+                                <div class="d-flex">
+                                    <div><img src="{{ asset('asset/images/book.png') }}" alt="img" class="user_img_size">
+                                    </div>
+                                    <div class="grey_200 font_weight_500 font_family_Popins font_size_14 mx-2">
+                                        nany</div>
+                                </div>
+                                <div class="d-flex">
+                                    <div><img src="{{ asset('asset/images/message.png') }}" alt="img" class="user_img_size">
+                                    </div>
+                                    <div class="grey_200 font_weight_500 font_family_Popins font_size_14 mx-2">
+                                        0</div>
+                                </div>
+                            </div>
+
+                            <div class="title-blog-post">
+                                Going Back To Work After Parental</div>
+
+
+                            <div class="post-content mt-3">
+                                Holistically pontificate installed base portals after
+                                maintainable products.
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4">
+                    <div class="">
+                        <div class="">
+                            <div>
+                                <div class="image-container"><img
+                                        src="{{ asset('asset/images/project-img3-800x600.jpg.png') }}" alt="img"
+                                        class="services_slider_img">
+                                    <div class="date-box-purple">
+                                        <div class="date font_size_18 font_weight_600 font_family_Popins line_height_18">
+                                            03
                                         </div>
-
-                                        <div class="font_family_Paytone font_size_21 font_weight_400 color_light_blue">
-                                            Consider When
-                                            Hiring a New Nanny</div>
-
-
-                                        <div class="grey_200 font_weight_500 font_family_Popins font_size_15 mt-4">
-                                            Holistically pontificate installed base portals after
-                                            maintainable products.
+                                        <div class="date font_size_14 font_weight_400 font_family_Popins line_height_20">
+                                            Aug
                                         </div>
-
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="">
-                                <div class="">
-                                    <div>
-                                        <div class="image-container"><img
-                                                src="{{ asset('asset/images/service-img4-800x600.jpg.png') }}" alt="img"
-                                                class="services_slider_img">
-                                            <div class="date-box-green">
-                                                <div
-                                                    class="date font_size_18 font_weight_600 font_family_Popins line_height_18">
-                                                    03
-                                                </div>
-                                                <div
-                                                    class="date font_size_14 font_weight_400 font_family_Popins line_height_20">
-                                                    Aug
-                                                </div>
-                                            </div>
+                            <div>
+                                <div class="d-flex mt-3 mb-2">
+                                    <div class="d-flex">
+                                        <div><img src="{{ asset('asset/images/user.png') }}" alt="img"
+                                                class="user_img_size">
                                         </div>
+                                        <div class="grey_200 font_weight_500 font_family_Popins font_size_14 mx-2">
+                                            admin</div>
                                     </div>
-                                    <div>
-                                        <div class="d-flex mt-3 mb-2">
-                                            <div class="d-flex">
-                                                <div><img src="{{ asset('asset/images/user.png') }}" alt="img"
-                                                        class="user_img_size">
-                                                </div>
-                                                <div
-                                                    class="grey_200 font_weight_500 font_family_Popins font_size_14 mx-2">
-                                                    admin</div>
-                                            </div>
-                                            <div class="d-flex">
-                                                <div><img src="{{ asset('asset/images/book.png') }}" alt="img"
-                                                        class="user_img_size">
-                                                </div>
-                                                <div
-                                                    class="grey_200 font_weight_500 font_family_Popins font_size_14 mx-2">
-                                                    nany</div>
-                                            </div>
-                                            <div class="d-flex">
-                                                <div><img src="{{ asset('asset/images/message.png') }}" alt="img"
-                                                        class="user_img_size">
-                                                </div>
-                                                <div
-                                                    class="grey_200 font_weight_500 font_family_Popins font_size_14 mx-2">
-                                                    0</div>
-                                            </div>
+                                    <div class="d-flex">
+                                        <div><img src="{{ asset('asset/images/book.png') }}" alt="img"
+                                                class="user_img_size">
                                         </div>
-
-                                        <div class="font_family_Paytone font_size_21 font_weight_400 color_light_blue">
-                                            babysitter for a child with special
-                                            needs</div>
-
-
-                                        <div class="grey_200 font_weight_500 font_family_Popins font_size_15 mt-4">
-                                            Holistically pontificate installed base portals after
-                                            maintainable products.
+                                        <div class="grey_200 font_weight_500 font_family_Popins font_size_14 mx-2">
+                                            nany</div>
+                                    </div>
+                                    <div class="d-flex">
+                                        <div><img src="{{ asset('asset/images/message.png') }}" alt="img"
+                                                class="user_img_size">
                                         </div>
-
+                                        <div class="grey_200 font_weight_500 font_family_Popins font_size_14 mx-2">
+                                            0</div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="">
-                                <div class="">
-                                    <div>
-                                        <div class="image-container"><img
-                                                src="{{ asset('asset/images/service-img6-800x600.jpg.png') }}" alt="img"
-                                                class="services_slider_img">
-                                            <div class="date-box">
-                                                <div
-                                                    class="date font_size_18 font_weight_600 font_family_Popins line_height_18">
-                                                    04
-                                                </div>
-                                                <div
-                                                    class="date font_size_14 font_weight_400 font_family_Popins line_height_20">
-                                                    Aug
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="d-flex mt-3 mb-2">
-                                            <div class="d-flex">
-                                                <div><img src="{{ asset('asset/images/user.png') }}" alt="img"
-                                                        class="user_img_size">
-                                                </div>
-                                                <div
-                                                    class="grey_200 font_weight_500 font_family_Popins font_size_14 mx-2">
-                                                    admin</div>
-                                            </div>
-                                            <div class="d-flex">
-                                                <div><img src="{{ asset('asset/images/book.png') }}" alt="img"
-                                                        class="user_img_size">
-                                                </div>
-                                                <div
-                                                    class="grey_200 font_weight_500 font_family_Popins font_size_14 mx-2">
-                                                    nany</div>
-                                            </div>
-                                            <div class="d-flex">
-                                                <div><img src="{{ asset('asset/images/message.png') }}" alt="img"
-                                                        class="user_img_size">
-                                                </div>
-                                                <div
-                                                    class="grey_200 font_weight_500 font_family_Popins font_size_14 mx-2">
-                                                    0</div>
-                                            </div>
-                                        </div>
 
-                                        <div class="font_family_Paytone font_size_21 font_weight_400 color_light_blue">
-                                            Going Back To
-                                            Work After Parental</div>
+                                <div class="title-blog-post">
+                                    Consider When Hiring a New Nanny</div>
 
 
-                                        <div class="grey_200 font_weight_500 font_family_Popins font_size_15 mt-4">
-                                            Holistically pontificate installed base portals after
-                                            maintainable products.
-                                        </div>
-
-                                    </div>
+                                <div class="post-content mt-3">
+                                    Holistically pontificate installed base portals after
+                                    maintainable products.
                                 </div>
+
                             </div>
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4">
+                    <div class="">
+                        <div class="">
+                            <div>
+                                <div class="image-container"><img
+                                        src="{{ asset('asset/images/service-img4-800x600.jpg.png') }}" alt="img"
+                                        class="services_slider_img">
+                                    <div class="date-box-green">
+                                        <div class="date font_size_18 font_weight_600 font_family_Popins line_height_18">
+                                            03
+                                        </div>
+                                        <div class="date font_size_14 font_weight_400 font_family_Popins line_height_20">
+                                            Aug
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="d-flex mt-3 mb-2">
+                                    <div class="d-flex">
+                                        <div><img src="{{ asset('asset/images/user.png') }}" alt="img"
+                                                class="user_img_size">
+                                        </div>
+                                        <div class="grey_200 font_weight_500 font_family_Popins font_size_14 mx-2">
+                                            admin</div>
+                                    </div>
+                                    <div class="d-flex">
+                                        <div><img src="{{ asset('asset/images/book.png') }}" alt="img"
+                                                class="user_img_size">
+                                        </div>
+                                        <div class="grey_200 font_weight_500 font_family_Popins font_size_14 mx-2">
+                                            nany</div>
+                                    </div>
+                                    <div class="d-flex">
+                                        <div><img src="{{ asset('asset/images/message.png') }}" alt="img"
+                                                class="user_img_size">
+                                        </div>
+                                        <div class="grey_200 font_weight_500 font_family_Popins font_size_14 mx-2">
+                                            0</div>
+                                    </div>
+                                </div>
 
-                <!-- <div class="swiper-button-next swiper-navBtn"></div>
-                                <div class="swiper-button-prev swiper-navBtn"></div> -->
-                <div class="swiper-pagination mt-5"></div>
+                                <div class="title-blog-post">
+                                    babysitter for a child with special
+                                    needs</div>
+
+
+                                <div class="post-content mt-3">
+                                    Holistically pontificate installed base portals after
+                                    maintainable products.
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="d-flex justify-content-center mb-5 mt-4">
+                <div class="">
+                    <button class="btn btn-primary-custom-blog" type="submit">Load More</button>
+                </div>
             </div>
         </div>
     </div>
     </div>
 </section>
-
-
-<!-- Swiper JS -->
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-
-<!-- JavaScript -->
-<script>
-    var swiper = new Swiper(".slide-content", {
-            slidesPerView: 3,
-            spaceBetween: 25,
-            loop: true,
-            centerSlide: 'true',
-            fade: 'true',
-            grabCursor: 'true',
-            pagination: {
-                el: ".swiper-pagination",
-                clickable: true,
-                dynamicBullets: true,
-            },
-            navigation: {
-                nextEl: ".swiper-button-next",
-                prevEl: ".swiper-button-prev",
-            },
-
-            breakpoints: {
-                0: {
-                    slidesPerView: 1,
-                },
-                520: {
-                    slidesPerView: 2,
-                },
-                950: {
-                    slidesPerView: 3,
-                },
-            },
-        });
-</script>
 @endsection

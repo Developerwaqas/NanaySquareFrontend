@@ -1,25 +1,15 @@
-<section class="mt-5 bg_img_work_section" id="">
+<section class="need-nany-mt-100 bg_img_work_section" id="">
     <div class="container-fluid">
         <div class="d-flex justify-content-center">
-            <div class="font_size_50 font_wieght_400 line_height_60 font_family_Paytone color_light_blue">How it works?
+            <div class="font_size_50 font_weight_600 line_height_60 font_family_popins color_light_blue_work">How it works?
             </div>
         </div>
 
         <div class="mx-4">
-            <div class="row font_family_Montserrat align-items-center justify-content-between mt-5">
+            <div class="d-flex flex-wrap font_family_Montserrat align-items-center justify-content-between mt-5">
                 <div class="col-lg-4">
                     <div class="row">
-                        <div class="col-md-2">
-                            <div class="d-flex justify-content-between">
-                                <div class="container_floating_icon_5">
-                                    <div class="floating">
-                                        <img src="{{ asset('asset/images/icon-5.png.png') }}" alt="book"
-                                            class="img_book_circle">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-10">
+                        <div class="col-lg-10">
                             <div class="sm_ml_5">
                                 <div class="ml__10">
                                     <div class="box_work_section">
@@ -106,7 +96,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <div class="d-flex align-items-center justify-content-center">
+                    <div class="d-flex align-items-center">
                         <div class="elpis_container"> <img src="{{ asset('asset/images/elips.png') }}" alt="elips"
                                 class="elips_img mr_4">
                             <div class="elips_text">
@@ -128,7 +118,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="row sm_ml_5 align-items-end">
-                        <div class="col-md-10">
+                        <div class="col-lg-10">
                             <div class="mt-4">
                                 <div class="box_work_section_right mr__10">
                                     <div class="work_title"> Create Free Account</div>
@@ -212,14 +202,7 @@
 
                             </div>
                         </div>
-                        <div class="col-md-2">
-                            <div class="work_section_pencil_icon_container">
-                                <div class="floating">
-                                    <img src="{{ asset('asset/images/icon-3.png.png') }}" alt="book"
-                                        class="img_book_circle">
-                                </div>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
             </div>

@@ -1,4 +1,4 @@
-<section class="mt-5">
+<section class="need-nany-mt-100" id="projects">
     <div class="container-fluid">
         <div class="row">
             <div class="">
@@ -8,14 +8,9 @@
                     </div>
                     <div class="text-center">
                         <div
-                            class="mt-3 font_size_50 font_wieght_400 line_height_60 font_family_Paytone color_light_blue">
+                            class="mt-3 font_size_50 font_weight_600 line_height_60 font_family_popins color_light_blue">
                             Top Rated Nanny</div>
                     </div>
-                </div>
-            </div>
-            <div class="d-flex justify-content-end">
-                <div class="floating rotate_img_container">
-                    <img src="{{ asset('asset/images/icon-2.png.png') }}" alt="icon" class="rotate-image">
                 </div>
             </div>
         </div>
@@ -146,7 +141,7 @@
                         <div class="mx-4">
                             <div class="font_family_Paytone font_size_24 color_light_blue font_weight_400">David Hanso
                             </div>
-                            <div class="font_family_Popins font_size_15 font_weight_500 color_green text-uppercase">
+                            <div class="font_family_Popins font_size_15 font_weight_500 color_yellow text-uppercase">
                                 babycare
                             </div>
                             <div class="mt-4 d-flex">

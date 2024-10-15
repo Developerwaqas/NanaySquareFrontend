@@ -4,7 +4,7 @@
             <div class="bage_title font_size_15 font_family_popins font_weight_600">Testimonials</div>
         </div>
         <div class="text-center">
-            <div class="mt-3 font_size_50 font_wieght_400 line_height_60 font_family_Paytone color_light_blue">
+            <div class="mt-3 font_size_50 font_weight_600 line_height_60 font_family_popins color_light_blue">
                 What Client says</div>
         </div>
         <div class="d-flex align-items-center">
@@ -76,12 +76,6 @@
                             eiusmod tempor incididunt ut labore et dolore magna.ntes, nascetur mus.
                         </div>
                     </div>
-                </div>
-            </div>
-
-            <div class="d-flex justify-content-end">
-                <div class="floating float_right">
-                    <img src="{{ asset('asset/images/icon-5.png.png') }}" alt="icon" class="rotate-image">
                 </div>
             </div>
 

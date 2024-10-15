@@ -86,7 +86,8 @@
 
                     </div>
                     <div class="mt-5">
-                        <button class="btn btn-contact-us">Contact us</button>
+                        <a href="/contact_us">
+                            <button class="btn btn-contact-us">Contact us</button></a>
                     </div>
                 </div>
             </div>
