@@ -5,7 +5,7 @@
         <div class="header_section_bg_img vertically-center-45">
             <div class="d-flex justify-content-center ">
                 <div>
-                    <div class="font_size_45 line_height_55 color_theme font_weight_400 font_family_Paytone">Privacy
+                    <div class="font_size_45 line_height_55 color_theme font_weight_700 font_family_popins">Privacy
                         Policy
                     </div>
                     <div class="d-flex justify-content-center mt-4">

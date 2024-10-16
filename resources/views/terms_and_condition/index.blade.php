@@ -5,7 +5,7 @@
         <div class="header_section_bg_img vertically-center-45">
             <div class="d-flex justify-content-center ">
                 <div>
-                    <div class="font_size_45 line_height_55 color_theme font_weight_400 font_family_Paytone">Terms &
+                    <div class="font_size_45 line_height_55 color_theme font_weight_700 font_family_popins">Terms &
                         Conditions</div>
                     <div class="d-flex justify-content-center mt-4">
                         <div class="d-flex">
@@ -27,7 +27,7 @@
     </section>
     <div class="container mt-25">
         <div class="row p-25">
-            <div class="col-md-9">
+            <div class="col-md-12">
                 <section class="">
                     <div>
                         <h1 class="font_size_22 font_weight_700 color_theme line_height_27">Nanny Square Terms of

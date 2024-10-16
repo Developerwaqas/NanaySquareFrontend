@@ -4,7 +4,7 @@
     <div class="header_section_bg_img vertically-center-45">
         <div class="d-flex justify-content-center ">
             <div>
-                <div class="font_size_45 line_height_55 color_theme font_weight_400 font_family_Paytone">About us
+                <div class="font_size_45 line_height_55 color_theme font_weight_700 font_family_popins">About us
                 </div>
                 <div class="d-flex justify-content-center mt-4">
                     <div class="d-flex">
@@ -37,7 +37,7 @@
                     <div>
                         <div class="bage_title font_size_15 font_family_popins font_weight_600">about us</div>
                         <div
-                            class="mt-3 font_size_50 font_wieght_400 line_height_60 font_family_Paytone color_light_blue">
+                            class="mt-3 font_size_50 font_weight_600 line_height_60 font_family_popins color_light_blue">
                             Childcare for your Busy
                             Life</div>
                         <div class="mt-4 font_size_15 font_weight_400 font_family_popins grey_200">
@@ -50,7 +50,20 @@
                         <div class="d-flex align-items-center mt-3">
                             <div class="tick_icon_container">
                                 <div class="d-flex justify-content-center">
-                                    <i class="fa-solid fa-check color_purple"></i>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="15" height="14" viewBox="0 0 15 14"
+                                        fill="none">
+                                        <g clip-path="url(#clip0_225_7995)">
+                                            <path
+                                                d="M14.3738 0.933506C14.0938 0.777951 13.7671 0.793507 13.3938 0.980173C13.2071 1.10462 12.9427 1.3224 12.6005 1.63351C12.2271 1.97573 11.6982 2.55128 11.0138 3.36017C10.5471 3.92017 10.2049 4.32462 9.98714 4.57351L8.86714 5.78684C8.05825 6.65795 7.45158 7.30351 7.04714 7.72351C6.64269 8.14351 6.34714 8.4624 6.16047 8.68017C5.84936 9.05351 5.60047 9.39573 5.4138 9.70684L4.5738 8.82017C3.82714 8.07351 3.2438 7.52906 2.8238 7.18684C2.4038 6.84462 2.00714 6.67351 1.6338 6.67351C1.19825 6.67351 0.980469 6.96906 0.980469 7.56017C1.01158 8.30684 1.32269 9.13128 1.9138 10.0335C2.31825 10.718 2.87825 11.4335 3.5938 12.1802C4.21602 12.8335 4.80714 13.1602 5.36714 13.1602C5.74047 13.1913 6.14491 13.0357 6.58047 12.6935C6.82936 12.5068 7.14047 12.1957 7.5138 11.7602L7.60714 11.6668C7.98047 11.2624 8.47825 10.6402 9.10047 9.80017C9.53602 9.24017 9.86269 8.83573 10.0805 8.58684L11.1538 7.28017C12.1182 6.12906 12.8182 5.25795 13.2538 4.66684L13.5805 4.29351C14.2027 3.54684 14.6071 2.95573 14.7938 2.52017C15.136 1.77351 14.996 1.24462 14.3738 0.933506ZM2.0538 7.46684C2.02269 7.46684 1.99158 7.46684 1.96047 7.46684C1.86714 7.43573 1.7738 7.40462 1.68047 7.37351C1.74269 7.31128 1.86714 7.3424 2.0538 7.46684Z"
+                                                fill="#B996FE" />
+                                        </g>
+                                        <defs>
+                                            <clipPath id="clip0_225_7995">
+                                                <rect width="14" height="14" fill="white"
+                                                    transform="matrix(1 0 0 -1 0.980469 14)" />
+                                            </clipPath>
+                                        </defs>
+                                    </svg>
                                 </div>
                             </div>
                             <div class="mx-3 color_light_blue font_size_16 font_weight_600 font_family_popins">Best
@@ -59,7 +72,20 @@
                         <div class="d-flex align-items-center mt-3">
                             <div class="tick_icon_container">
                                 <div class="d-flex justify-content-center">
-                                    <i class="fa-solid fa-check color_purple"></i>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="15" height="14" viewBox="0 0 15 14"
+                                        fill="none">
+                                        <g clip-path="url(#clip0_225_7995)">
+                                            <path
+                                                d="M14.3738 0.933506C14.0938 0.777951 13.7671 0.793507 13.3938 0.980173C13.2071 1.10462 12.9427 1.3224 12.6005 1.63351C12.2271 1.97573 11.6982 2.55128 11.0138 3.36017C10.5471 3.92017 10.2049 4.32462 9.98714 4.57351L8.86714 5.78684C8.05825 6.65795 7.45158 7.30351 7.04714 7.72351C6.64269 8.14351 6.34714 8.4624 6.16047 8.68017C5.84936 9.05351 5.60047 9.39573 5.4138 9.70684L4.5738 8.82017C3.82714 8.07351 3.2438 7.52906 2.8238 7.18684C2.4038 6.84462 2.00714 6.67351 1.6338 6.67351C1.19825 6.67351 0.980469 6.96906 0.980469 7.56017C1.01158 8.30684 1.32269 9.13128 1.9138 10.0335C2.31825 10.718 2.87825 11.4335 3.5938 12.1802C4.21602 12.8335 4.80714 13.1602 5.36714 13.1602C5.74047 13.1913 6.14491 13.0357 6.58047 12.6935C6.82936 12.5068 7.14047 12.1957 7.5138 11.7602L7.60714 11.6668C7.98047 11.2624 8.47825 10.6402 9.10047 9.80017C9.53602 9.24017 9.86269 8.83573 10.0805 8.58684L11.1538 7.28017C12.1182 6.12906 12.8182 5.25795 13.2538 4.66684L13.5805 4.29351C14.2027 3.54684 14.6071 2.95573 14.7938 2.52017C15.136 1.77351 14.996 1.24462 14.3738 0.933506ZM2.0538 7.46684C2.02269 7.46684 1.99158 7.46684 1.96047 7.46684C1.86714 7.43573 1.7738 7.40462 1.68047 7.37351C1.74269 7.31128 1.86714 7.3424 2.0538 7.46684Z"
+                                                fill="#B996FE" />
+                                        </g>
+                                        <defs>
+                                            <clipPath id="clip0_225_7995">
+                                                <rect width="14" height="14" fill="white"
+                                                    transform="matrix(1 0 0 -1 0.980469 14)" />
+                                            </clipPath>
+                                        </defs>
+                                    </svg>
                                 </div>
                             </div>
                             <div class="mx-3 color_light_blue font_size_16 font_weight_600 font_family_popins">
@@ -68,7 +94,20 @@
                         <div class="d-flex align-items-center mt-3">
                             <div class="tick_icon_container">
                                 <div class="d-flex justify-content-center">
-                                    <i class="fa-solid fa-check color_purple"></i>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="15" height="14" viewBox="0 0 15 14"
+                                        fill="none">
+                                        <g clip-path="url(#clip0_225_7995)">
+                                            <path
+                                                d="M14.3738 0.933506C14.0938 0.777951 13.7671 0.793507 13.3938 0.980173C13.2071 1.10462 12.9427 1.3224 12.6005 1.63351C12.2271 1.97573 11.6982 2.55128 11.0138 3.36017C10.5471 3.92017 10.2049 4.32462 9.98714 4.57351L8.86714 5.78684C8.05825 6.65795 7.45158 7.30351 7.04714 7.72351C6.64269 8.14351 6.34714 8.4624 6.16047 8.68017C5.84936 9.05351 5.60047 9.39573 5.4138 9.70684L4.5738 8.82017C3.82714 8.07351 3.2438 7.52906 2.8238 7.18684C2.4038 6.84462 2.00714 6.67351 1.6338 6.67351C1.19825 6.67351 0.980469 6.96906 0.980469 7.56017C1.01158 8.30684 1.32269 9.13128 1.9138 10.0335C2.31825 10.718 2.87825 11.4335 3.5938 12.1802C4.21602 12.8335 4.80714 13.1602 5.36714 13.1602C5.74047 13.1913 6.14491 13.0357 6.58047 12.6935C6.82936 12.5068 7.14047 12.1957 7.5138 11.7602L7.60714 11.6668C7.98047 11.2624 8.47825 10.6402 9.10047 9.80017C9.53602 9.24017 9.86269 8.83573 10.0805 8.58684L11.1538 7.28017C12.1182 6.12906 12.8182 5.25795 13.2538 4.66684L13.5805 4.29351C14.2027 3.54684 14.6071 2.95573 14.7938 2.52017C15.136 1.77351 14.996 1.24462 14.3738 0.933506ZM2.0538 7.46684C2.02269 7.46684 1.99158 7.46684 1.96047 7.46684C1.86714 7.43573 1.7738 7.40462 1.68047 7.37351C1.74269 7.31128 1.86714 7.3424 2.0538 7.46684Z"
+                                                fill="#B996FE" />
+                                        </g>
+                                        <defs>
+                                            <clipPath id="clip0_225_7995">
+                                                <rect width="14" height="14" fill="white"
+                                                    transform="matrix(1 0 0 -1 0.980469 14)" />
+                                            </clipPath>
+                                        </defs>
+                                    </svg>
                                 </div>
                             </div>
                             <div class="mx-3 color_light_blue font_size_16 font_weight_600 font_family_popins">Contact
@@ -77,7 +116,20 @@
                         <div class="d-flex align-items-center mt-3">
                             <div class="tick_icon_container">
                                 <div class="d-flex justify-content-center">
-                                    <i class="fa-solid fa-check color_purple"></i>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="15" height="14" viewBox="0 0 15 14"
+                                        fill="none">
+                                        <g clip-path="url(#clip0_225_7995)">
+                                            <path
+                                                d="M14.3738 0.933506C14.0938 0.777951 13.7671 0.793507 13.3938 0.980173C13.2071 1.10462 12.9427 1.3224 12.6005 1.63351C12.2271 1.97573 11.6982 2.55128 11.0138 3.36017C10.5471 3.92017 10.2049 4.32462 9.98714 4.57351L8.86714 5.78684C8.05825 6.65795 7.45158 7.30351 7.04714 7.72351C6.64269 8.14351 6.34714 8.4624 6.16047 8.68017C5.84936 9.05351 5.60047 9.39573 5.4138 9.70684L4.5738 8.82017C3.82714 8.07351 3.2438 7.52906 2.8238 7.18684C2.4038 6.84462 2.00714 6.67351 1.6338 6.67351C1.19825 6.67351 0.980469 6.96906 0.980469 7.56017C1.01158 8.30684 1.32269 9.13128 1.9138 10.0335C2.31825 10.718 2.87825 11.4335 3.5938 12.1802C4.21602 12.8335 4.80714 13.1602 5.36714 13.1602C5.74047 13.1913 6.14491 13.0357 6.58047 12.6935C6.82936 12.5068 7.14047 12.1957 7.5138 11.7602L7.60714 11.6668C7.98047 11.2624 8.47825 10.6402 9.10047 9.80017C9.53602 9.24017 9.86269 8.83573 10.0805 8.58684L11.1538 7.28017C12.1182 6.12906 12.8182 5.25795 13.2538 4.66684L13.5805 4.29351C14.2027 3.54684 14.6071 2.95573 14.7938 2.52017C15.136 1.77351 14.996 1.24462 14.3738 0.933506ZM2.0538 7.46684C2.02269 7.46684 1.99158 7.46684 1.96047 7.46684C1.86714 7.43573 1.7738 7.40462 1.68047 7.37351C1.74269 7.31128 1.86714 7.3424 2.0538 7.46684Z"
+                                                fill="#B996FE" />
+                                        </g>
+                                        <defs>
+                                            <clipPath id="clip0_225_7995">
+                                                <rect width="14" height="14" fill="white"
+                                                    transform="matrix(1 0 0 -1 0.980469 14)" />
+                                            </clipPath>
+                                        </defs>
+                                    </svg>
                                 </div>
                             </div>
                             <div class="mx-3 color_light_blue font_size_16 font_weight_600 font_family_popins">Hire
@@ -100,7 +152,7 @@
             <div class="row">
                 <div class="col-md-5">
                     <div class="bage_title font_size_15 font_family_popins font_weight_600">WHY CHOOSE US</div>
-                    <div class="mt-3 font_size_50 font_wieght_400 line_height_60 font_family_Paytone color_light_blue">
+                    <div class="mt-3 font_size_50 font_wieght_400 line_height_60 font_family_popins color_light_blue">
                         Childcare for your Busy
                         Life</div>
                 </div>
@@ -134,7 +186,7 @@
                             </div>
                         </div>
                         <div class="mx-3">
-                            <div class="font_size_26 font_weight_400 color_light_blue font_family_Paytone">Demand
+                            <div class="font_size_26 font_weight_600 color_light_blue font_family_popins">Demand
                                 childcare
                             </div>
                             <div class="grey_200 font_size_15 font_family_popins font_weight_400 line_height_25">Regular
@@ -153,7 +205,7 @@
                             </div>
                         </div>
                         <div class="mx-3">
-                            <div class="font_size_26 font_weight_400 color_light_blue font_family_Paytone">Nanny
+                            <div class="font_size_26 font_weight_600 color_light_blue font_family_popins">Nanny
                                 Wellbeing
                             </div>
                             <div class="grey_200 font_size_15 font_family_popins font_weight_400 line_height_25">
@@ -173,7 +225,7 @@
                             </div>
                         </div>
                         <div class="mx-3">
-                            <div class="font_size_26 font_weight_400 color_light_blue font_family_Paytone">Safeguarding
+                            <div class="font_size_26 font_weight_600 color_light_blue font_family_popins">Safeguarding
                             </div>
                             <div class="grey_200 font_size_15 font_family_popins font_weight_400 line_height_25">
                                 Regular support after-school, weekday, and
@@ -192,7 +244,7 @@
                             </div>
                         </div>
                         <div class="mx-3">
-                            <div class="font_size_26 font_weight_400 color_light_blue font_family_Paytone">Nanny jobs
+                            <div class="font_size_26 font_weight_600 color_light_blue font_family_popins">Nanny jobs
                             </div>
                             <div class="grey_200 font_size_15 font_family_popins font_weight_400 line_height_25">
                                 Regular support after-school, weekday, and
@@ -211,7 +263,7 @@
                             </div>
                         </div>
                         <div class="mx-3">
-                            <div class="font_size_26 font_weight_400 color_light_blue font_family_Paytone">Evening
+                            <div class="font_size_26 font_weight_600 color_light_blue font_family_popins">Evening
                                 Sitters
                             </div>
                             <div class="grey_200 font_size_15 font_family_popins font_weight_400 line_height_25">
@@ -230,7 +282,7 @@
                             </div>
                         </div>
                         <div class="mx-3">
-                            <div class="font_size_26 font_weight_400 color_light_blue font_family_Paytone">Support 24/7
+                            <div class="font_size_26 font_weight_600 color_light_blue font_family_popins">Support 24/7
                             </div>
                             <div class="grey_200 font_size_15 font_family_popins font_weight_400 line_height_25">
                                 Regular support after-school, weekday, and
@@ -251,7 +303,7 @@
             <div class="col-md-6">
                 <div>
                     <div class="bage_title font_size_15 font_family_popins font_weight_600">about us</div>
-                    <div class="mt-3 font_size_50 font_wieght_400 line_height_60 font_family_Paytone color_light_blue">
+                    <div class="mt-3 font_size_50 font_weight_700 line_height_60 font_family_popins color_light_blue">
                         Getting Started on Baby
                         First Year </div>
                     <div class="mt-4 color_light_blue font_size_21 font_weight_600 font_family_popins">We offer
@@ -294,11 +346,11 @@
                                     </div>
                                 </div>
                                 <div class="mx__20 mt-4">
-                                    <div class="font_family_Paytone font_size_30 font_weight_400 color_light_blue">
+                                    <div class="font_family_popins font_size_30 font_weight_600 color_light_blue ml__30">
                                         Johnson
                                         Andrea</div>
                                     <div
-                                        class="font_family_popins font_size_14 font_weight_500 color_pink text-uppercase">
+                                        class="font_family_popins font_size_14 font_weight_500 color_pink text-uppercase ml__30">
                                         General Manager</div>
                                     <div class="testimonial-text color_light_blue mt-4">We are impressed with the team
                                         leader
@@ -317,11 +369,11 @@
                                     </div>
                                 </div>
                                 <div class="mx__20 mt-4">
-                                    <div class="font_family_Paytone font_size_30 font_weight_400 color_light_blue">
+                                    <div class="font_family_popins font_size_30 font_weight_600 color_light_blue ml__30">
                                         Johnson
                                         Andrea</div>
                                     <div
-                                        class="font_family_popins font_size_14 font_weight_500 color_pink text-uppercase">
+                                        class="font_family_popins font_size_14 font_weight_500 color_pink text-uppercase ml__30">
                                         General Manager</div>
                                     <div class="testimonial-text color_light_blue mt-4">We are impressed with the team
                                         leader
@@ -340,11 +392,11 @@
                                     </div>
                                 </div>
                                 <div class="mx__20 mt-4">
-                                    <div class="font_family_Paytone font_size_30 font_weight_400 color_light_blue">
+                                    <div class="font_family_popins font_size_30 font_weight_600 color_light_blue ml__30">
                                         Johnson
                                         Andrea</div>
                                     <div
-                                        class="font_family_popins font_size_14 font_weight_500 color_pink text-uppercase">
+                                        class="font_family_popins font_size_14 font_weight_500 color_pink text-uppercase ml__30">
                                         General Manager</div>
                                     <div class="testimonial-text color_light_blue mt-4">We are impressed with the team
                                         leader
@@ -363,11 +415,11 @@
                                     </div>
                                 </div>
                                 <div class="mx__20 mt-4">
-                                    <div class="font_family_Paytone font_size_30 font_weight_400 color_light_blue">
+                                    <div class="font_family_popins font_size_30 font_weight_600 color_light_blue ml__30">
                                         Johnson
                                         Andrea</div>
                                     <div
-                                        class="font_family_popins font_size_14 font_weight_500 color_pink text-uppercase">
+                                        class="font_family_popins font_size_14 font_weight_500 color_pink text-uppercase ml__30">
                                         General Manager</div>
                                     <div class="testimonial-text color_light_blue mt-4">We are impressed with the team
                                         leader

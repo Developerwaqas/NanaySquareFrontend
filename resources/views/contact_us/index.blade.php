@@ -4,7 +4,7 @@
     <div class="header_section_bg_img vertically-center-45">
         <div class="d-flex justify-content-center ">
             <div>
-                <div class="font_size_45 line_height_55 color_theme font_weight_400 font_family_Paytone">Contact us
+                <div class="font_size_45 line_height_55 color_theme font_weight_700 font_family_popins">Contact us
                 </div>
                 <div class="d-flex justify-content-center mt-4">
                     <div class="d-flex">
@@ -27,10 +27,6 @@
     <div class="container mt-25">
         <div class="row  p-25">
             <div class="col-md-6">
-                <div class="mt-2">
-                    <div class="font_size_50 line_height_60 color_theme font_weight_400 font_family_Paytone">Contact
-                        With Us</div>
-                </div>
                 {{-- email --}}
                 <div class="d-flex align-items-center mt-5">
                     <div class="email_container">
@@ -41,7 +37,7 @@
                         </div>
                     </div>
                     <div class="mx-4">
-                        <div class="color_light_blue font_size_23 font_family_Paytone font_weight_400 line_height_33">
+                        <div class="color_light_blue font_size_23 font_family_popins font_weight_600 line_height_33">
                             Email
                         </div>
                         <div class="grey_200 font_size_16 font_weight_500 font_family_popins">
@@ -60,7 +56,7 @@
                         </div>
                     </div>
                     <div class="mx-4">
-                        <div class="color_light_blue font_size_23 font_family_Paytone font_weight_400 line_height_33">
+                        <div class="color_light_blue font_size_23 font_family_popins font_weight_600 line_height_33">
                             Phone
                         </div>
                         <div class="grey_200 font_size_16 font_weight_500 font_family_popins">
@@ -79,7 +75,7 @@
                         </div>
                     </div>
                     <div class="mx-4">
-                        <div class="color_light_blue font_size_23 font_family_Paytone font_weight_400 line_height_33">
+                        <div class="color_light_blue font_size_23 font_family_popins font_weight_600 line_height_33">
                             Address
                         </div>
                         <div class="grey_200 font_size_16 font_weight_500 font_family_popins">
@@ -113,10 +109,6 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <div>
-                    <div class="font_size_35 line_height_43 color_theme font_weight_400 font_family_Paytone">Contact Us
-                    </div>
-                </div>
                 <div class="mt-4">
                     <form action="#">
                         <div class="mb-4">

@@ -975,7 +975,11 @@ body {
 }
 
 .mx__20 {
-    margin-left: -40px !important;
+    margin-left: -10px !important;
+}
+
+.ml__30{
+    margin-left: 30px;
 }
 
 .testimonial-text {
