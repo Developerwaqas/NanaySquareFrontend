@@ -434,6 +434,14 @@
                         </div>
                     </div>
                 </div>
+                <div>
+                    <div class="d-flex align-items-center morning-btn">
+                        <div>
+                            <img src="{{asset('asset/images/back.png')}}" alt="img" class="back-img">
+                        </div>
+                        <div class="morinig-btn-text">Morning nanny</div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

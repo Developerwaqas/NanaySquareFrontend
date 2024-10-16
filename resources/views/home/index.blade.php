@@ -216,7 +216,7 @@
             <div class="mt-3 font_size_50 font_weight_600 line_height_60 font_family_popins color_light_blue">
                 Our Recent Update</div>
         </div>
-        <div class="container mt-5">
+        <div class=" mt-5">
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4">
                     <div class="">

@@ -140,7 +140,7 @@
                                     </div>
                                 </div>
 
-                                <div class="box_work_section_right mr__5">
+                                <div class="box_work_section_right _mr___5">
                                     <div class="work_title"> Complete Profile</div>
                                     <div>
                                         <ul class="work-list">

@@ -294,7 +294,7 @@ body {
     background-repeat: no-repeat;
     /* Prevents the image from repeating */
     width: 100%;
-    min-height: 100vh;
+    /* min-height: 100vh; */
     /* Adjust this value as needed */
 }
 
@@ -815,7 +815,7 @@ body {
     background-color: #1a6f89 !important;
 }
 
-.btn-primary-custom-finder{
+.btn-primary-custom-finder {
     background-color: #5E59E7 !important;
     color: #fff !important;
     width: 170px !important;
@@ -1729,8 +1729,8 @@ body {
 
 
 .elips_img {
-    width: 200px;
-    height: 380px;
+    width: 180px;
+    height: 350px;
 }
 
 .play_img_work {
@@ -2039,6 +2039,11 @@ body {
     }
 
     .mr__5 {
+        margin-left: -40px;
+        /* margin-right: 40px; */
+    }
+    
+    ._mr___5 {
         margin-left: -40px;
         margin-right: 40px;
     }
@@ -2472,7 +2477,7 @@ body {
     /* 122.727% */
 }
 
-.anker-style{
+.anker-style {
     text-decoration: none;
 }
 
@@ -2720,12 +2725,36 @@ body {
     /* 176.471% */
 }
 
-.need-nany-mt-100{
+.need-nany-mt-100 {
     margin-top: 100px !important;
 }
 
-.blog-mt-150{
+.blog-mt-150 {
     margin-top: 150px;
+}
+
+.morinig-btn-text {
+    color: #1D2150;
+    font-family: 'Poppins', sans-serif !important;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    /* 133.333% */
+    margin-left: 20px;
+}
+
+.morning-btn {
+    border-radius: 20px;
+    border: 1px solid #E5E5E5;
+    padding: 10px 50px 10px 20px;
+    width: 50%;
+    cursor: pointer;
+}
+
+.back-img{
+    width: 50px;
+    height: 50px;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -2833,6 +2862,7 @@ body {
         font-weight: 600;
         line-height: normal;
     }
+
     .card_slider_offer {
         min-width: 100% !important;
         box-sizing: border-box;
