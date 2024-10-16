@@ -29,7 +29,7 @@
                         <a class="nav-link {{ request()->is('help') ? 'active' : '' }}" href="/#help">Help</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link {{ request()->is('blog') ? 'active' : '' }}" href="/blogs">Blog</a>
+                        <a class="nav-link {{ request()->is('blog') ? 'active' : '' }}" href="/#blog">Blog</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link {{ request()->is('contact_us') ? 'active' : '' }}" href="/contact_us">Contact
@@ -67,8 +67,13 @@
                     </div>
                 </div>
                 <div class="d-flex ms-lg-auto">
-                    <button class="btn btn-primary-custom-login" type="submit">login</button>
-                    <button class="btn btn-primary-custom" type="submit">Register</button>
+                    <a href="https://app.nannysquare.com/login">
+                        <button class="btn btn-primary-custom-login" type="submit">login</button>
+                    </a>
+
+                    <a href="https://app.nannysquare.com/register">
+                        <button class="btn btn-primary-custom" type="submit">Register</button>
+                    </a>
                 </div>
             </div>
         </div>

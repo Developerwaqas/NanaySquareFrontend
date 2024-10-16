@@ -7,7 +7,7 @@
 
         <div class="mx-4">
             <div class="d-flex flex-wrap font_family_Montserrat align-items-center justify-content-between mt-5">
-                <div class="col-lg-4">
+                <div class="left-panel-w ml__50">
                     <div class="row">
                         <div class="col-lg-10">
                             <div class="sm_ml_5">
@@ -95,28 +95,28 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="middle-graph">
                     <div class="d-flex align-items-center">
                         <div class="elpis_container"> <img src="{{ asset('asset/images/elips.png') }}" alt="elips"
                                 class="elips_img mr_4">
                             <div class="elips_text">
-                                Find <br />CAREGIVER
+                                Find <br /> <span style="margin-left: -20px;">CAREGIVER</span>
                             </div>
                         </div>
 
-                        <div class="play_img_bg">
+                        <div class="play_img_bg" style="margin-left: -10px;">
                             <img src="{{ asset('asset/images/Play.png') }}" alt="play" class="play_img_work">
                         </div>
 
                         <div class="elpis_container"><img src="{{ asset('asset/images/elips1.png') }}" alt="elips"
                                 class="elips_img ml_4">
                             <div class="elips_text">
-                                I'M A <br />CAREGIVER
+                                I'M A <br /> CAREGIVER
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="right-panel-w">
                     <div class="row sm_ml_5 align-items-end">
                         <div class="col-lg-10">
                             <div class="mt-4">

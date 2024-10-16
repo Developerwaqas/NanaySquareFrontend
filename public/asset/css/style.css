@@ -639,7 +639,7 @@ body {
 .social_icons_container {
     width: 40px;
     height: 40px;
-    background-color: #F7F7F7;
+    background-color: #F7F7F7 !important;
     border-radius: 50px;
 }
 
@@ -1729,8 +1729,9 @@ body {
 
 
 .elips_img {
-    width: 180px;
+    width: 100%;
     height: 350px;
+    object-fit: 100% 100%;
 }
 
 .play_img_work {
@@ -1744,11 +1745,11 @@ body {
 }
 
 .mr_4 {
-    margin-right: -20px;
+    margin-right: -10px;
 }
 
 .ml_4 {
-    margin-left: -20px;
+    margin-left: -10px;
 }
 
 
@@ -1763,7 +1764,7 @@ body {
     transform: translate(-50%, -50%);
     color: #fff;
     font-weight: 700;
-    font-size: 22px;
+    font-size: 18px;
     text-align: center;
 }
 
@@ -2042,7 +2043,7 @@ body {
         margin-left: -40px;
         /* margin-right: 40px; */
     }
-    
+
     ._mr___5 {
         margin-left: -40px;
         margin-right: 40px;
@@ -2757,7 +2758,29 @@ body {
     height: 50px;
 }
 
+.left-panel-w{
+    width: 35%;
+}
+
+.middle-graph{
+    width: 30%;
+}
+
+.ml__50{
+    margin-right: -20px;
+}
+
 @media only screen and (max-width: 1024px) {
+
+    .left-panel-w{
+        width: 50%;
+    }
+
+    .middle-graph{
+        width: 50%;
+    }
+
+
     .img_sldier_home {
         width: 95%;
         height: 30vh;
@@ -2854,6 +2877,13 @@ body {
 
 
 @media only screen and (max-width: 768px) {
+    .left-panel-w{
+        width: 100%;
+    }
+
+    .middle-graph{
+        width: 100%;
+    }
     .banner-title {
         color: #FFF;
         font-family: 'Poppins', sans-serif;
