@@ -143,8 +143,13 @@
                 </div>
             </div>
             <div class="d-flex ms-lg-auto mt-4">
-                <button class="btn btn-primary-custom-login" type="submit">login</button>
-                <button class="btn btn-primary-custom" type="submit">Register</button>
+                <a href="https://app.nannysquare.com/login">
+                    <button class="btn btn-primary-custom-login" type="submit">login</button>
+                </a>
+
+                <a href="https://app.nannysquare.com/register">
+                    <button class="btn btn-primary-custom" type="submit">Register</button>
+                </a>
             </div>
         </div>
     </div>

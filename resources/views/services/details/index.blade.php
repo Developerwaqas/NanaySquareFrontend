@@ -343,7 +343,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-6 mb-4">
+                            <div class="col-md-6 mb-4 mt-4">
                                 <div class="d-flex align-items-center">
                                     <div>
                                         <img src="{{ asset('asset/images/babysitter-team1.jpg.png') }}" alt="team"
@@ -435,7 +435,7 @@
                     </div>
                 </div>
                 <div>
-                    <div class="d-flex align-items-center morning-btn">
+                    <div class="d-flex align-items-center morning-btn mt-5">
                         <div>
                             <img src="{{asset('asset/images/back.png')}}" alt="img" class="back-img">
                         </div>
