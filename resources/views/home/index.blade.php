@@ -15,7 +15,7 @@
             <div class="d-flex align-items-end justify-content-between">
 
                 <div class="bg_nanay_section">
-                    <div class="row align-items-center">
+                    <div class="row align-items-end">
                         <div class="col-md-5">
                             <div>
                                 <img src="{{ asset('asset/images/nany.png') }}" alt="abput_us"
@@ -23,13 +23,13 @@
                             </div>
                         </div>
                         <div class="col-md-7">
-                            <div class="ml-5">
+                            <div class="ml-5 mt-4 mb-4">
                                 <div>
-                                    <div class="bage_title font_size_15 font_family_popins font_weight_600">Become Nanny
+                                    <div class="bage_title font_size_15 font_family_popins font_weight_600">Become a caregiver
                                     </div>
                                     <div
-                                        class="mt-3 font_size_50 font_weight_600 line_height_60 font_family_popins color_light_blue">
-                                        Want toBecome Nanny</div>
+                                        class="mt-3 font_size_40 font_weight_700 line_height_60 font_family_popins color_light_blue">
+                                        Do you want to become a caregiver?</div>
 
                                 </div>
                                 <div class="mt-4">
@@ -44,8 +44,7 @@
                                         <div class="mx-3">
                                             <div
                                                 class="font_size_26 font_weight_400 color_light_blue font_family_Paytone">
-                                                Need
-                                                Job as Nanny
+                                                I need a job as a caregiver
                                             </div>
                                             <div
                                                 class="grey_200 font_size_15 font_family_popins font_weight_400 line_height_25">
@@ -90,8 +89,7 @@
                                         <div class="mx-3">
                                             <div
                                                 class="font_size_26 font_weight_400 color_light_blue font_family_Paytone">
-                                                Need
-                                                Create Free Profile
+                                                Create a free profile
                                             </div>
                                             <div
                                                 class="grey_200 font_size_15 font_family_popins font_weight_400 line_height_25">
@@ -113,8 +111,28 @@
                                         <div class="mx-3">
                                             <div
                                                 class="font_size_26 font_weight_400 color_light_blue font_family_Paytone">
-                                                Need
-                                                Recipient will search you
+                                                Complete required information
+                                            </div>
+                                            <div
+                                                class="grey_200 font_size_15 font_family_popins font_weight_400 line_height_25">
+                                                Regular
+                                                At vero eos et accusamus et iusto odio dignissimos ducimus qui
+                                                blanditiis
+                                                praesentium voluptatum deleniti atque.</div>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex mt-3">
+                                        <div class="become_nanay_icon_container_orange">
+                                            <div class="d-flex justify-content-center">
+                                                <div class="font_family_Paytone font_weight_400 font_size_22">
+                                                    05
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="mx-3">
+                                            <div
+                                                class="font_size_26 font_weight_400 color_light_blue font_family_Paytone">
+                                                Show up in search results for caregivers
                                             </div>
                                             <div
                                                 class="grey_200 font_size_15 font_family_popins font_weight_400 line_height_25">
@@ -153,7 +171,7 @@
                             <div class="font_family_Paytone font_size_45 font_weight_400 text-white">19+</div>
                             <div class="font_family_Popins font_size_15 font_weight_500 text-white text-capitalize">
                                 team
-                                member</div>
+                                members</div>
                         </div>
                     </div>
                 </div>
@@ -164,7 +182,7 @@
                             <img src="{{ asset('asset/images/Icon1.png') }}" alt="icon" class="icon_size_medium">
                         </div>
                         <div class="mx-4">
-                            <div class="font_family_Paytone font_size_45 font_weight_400 text-white">79+</div>
+                            <div class="font_family_Paytone font_size_45 font_weight_400 text-white">200+</div>
                             <div class="font_family_Popins font_size_15 font_weight_500 text-white text-capitalize">
                                 Happy Clients</div>
                         </div>
@@ -179,8 +197,8 @@
                         <div class="mx-4">
                             <div class="font_family_Paytone font_size_45 font_weight_400 text-white">519+</div>
                             <div class="font_family_Popins font_size_15 font_weight_500 text-white text-capitalize">
-                                Team
-                                Experts</div>
+                                Care Givers
+                                </div>
                         </div>
                     </div>
                 </div>
@@ -191,9 +209,9 @@
                             <img src="{{ asset('asset/images/Icon3.png') }}" alt="icon" class="icon_size_medium">
                         </div>
                         <div class="mx-4">
-                            <div class="font_family_Paytone font_size_45 font_weight_400 text-white">29+</div>
+                            <div class="font_family_Paytone font_size_45 font_weight_400 text-white">100+</div>
                             <div class="font_family_Popins font_size_15 font_weight_500 text-white text-capitalize">
-                                Projects Done</div>
+                                Complete Care Engagements</div>
                         </div>
                     </div>
                 </div>
@@ -205,6 +223,10 @@
 
 <div>
     @include('home.section_testimanial')
+</div>
+
+<div>
+    @include('home.section_care_provider')
 </div>
 
 <section class="blog-mt-150 mb-5" id="blog">
@@ -382,7 +404,7 @@
             <div class="d-flex justify-content-center mb-5 mt-4">
                 <div class="">
                     <a href="/blogs" class="anker-style">
-                    <button class="btn btn-primary-custom-blog" type="submit">Load More</button>
+                    <button class="btn btn-primary-custom-blog" type="submit">See More</button>
                     </a>
                 </div>
             </div>

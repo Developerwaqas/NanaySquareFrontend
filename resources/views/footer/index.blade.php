@@ -1,7 +1,7 @@
 <footer>
     <section class="footer_bg">
         <div class="container">
-            <div class="row mb_100">
+            <div class="row mb_100 justify-content-center">
                 <div class="col-lg-4">
                     <div class="sm_d_flex_center">
                         <div>
@@ -25,7 +25,7 @@
                                     <div class="mx-4">
 
                                         <div class="text-white font_size_16 font_weight_500 font_family_popins">
-                                            + (000) 123456789
+                                            +1-857-626-6433 (+1-857-NANNIED)
                                         </div>
                                     </div>
                                 </div>
@@ -43,7 +43,7 @@
                                     <div class="mx-4">
 
                                         <div class="text-white font_size_16 font_weight_500 font_family_popins">
-                                            A-1, Envanto HQ, Australia
+                                            Houston, TX, USA
                                         </div>
                                     </div>
                                 </div>
@@ -60,7 +60,7 @@
                                     <div class="mx-4">
 
                                         <div class="text-white font_size_16 font_weight_500 font_family_popins">
-                                            mail@nanny.com
+                                            contactus@nannysquare.com
                                         </div>
                                     </div>
                                 </div>
@@ -69,7 +69,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 mx_border">
+                <div class="col-lg-6 mx_border">
                     <div class="mx-5">
                         <div class="d-flex justify-content-center">
                             <img src="{{ asset('asset/images/Logo.png') }}" alt="logo" class="logo_footer" />
@@ -78,16 +78,21 @@
                             <div>
                                 <a href="/" class="anker">Home</a>
                             </div>
-                            <div><a href="/services" class="anker">Service</a></div>
                             <div><a href="/about_us" class="anker">About Us</a></div>
+                            <div><a href="/services" class="anker">Service</a></div>
+                            <div><a href="https://app.nannysquare.com/register" class="anker">Register</a></div>
+                            <div><a href="/terms_and_condition" class="anker">Terms and Service</a></div>
                         </div>
                         <div class="mt-4 d-flex justify-content-between text-white font_size_16 font_family_popins">
                             <div><a href="/blogs" class="anker">Blog</a></div>
                             <div><a href="/contact_us" class="anker">Contact us</a></div>
-                            <div><a href="/#projects" class="anker">Projects</a></div>
+                            <div><a href="/security-privacy" class="anker">Security</a></div>
+                            <div><a href="/#help" class="anker">Help</a></div>
+                            <div><a href="/privacy" class="anker">Privacy Policy</a></div>
                         </div>
                         <div class="d-flex justify-content-center">
                             <div class="mt-5 d-flex">
+                                <a href="https://www.facebook.com/profile.php?id=100088067353309" class="anker">
                                 <div class="social_icons_container_footer">
                                     <div class="d-flex justify-content-center">
                                         <div class="vertically_midle">
@@ -95,27 +100,31 @@
                                         </div>
                                     </div>
                                 </div>
+                                </a>
+                                <a href="https://www.instagram.com/nanny.square/" class="anker">
                                 <div class="social_icons_container_footer mx-3">
                                     <div class="d-flex justify-content-center">
                                         <div class="vertically_midle">
-                                            <i class="fa-brands fa-twitter text-white"></i>
+                                            <i class="fa-brands fa-instagram icons_size_contact text-white"></i>
                                         </div>
                                     </div>
                                 </div>
+                                </a>
+                                <a href="https://www.linkedin.com/company/nanny-square/" class="anker">
                                 <div class="social_icons_container_footer">
                                     <div class="d-flex justify-content-center">
                                         <div class="vertically_midle">
-                                            <img src="{{ asset('asset/images/global.png') }}" alt="global"
-                                                class="icons_size_footer">
+                                                <i class='fa-brands fa-linkedin-in icons_size_contact text-white'></i>
                                         </div>
                                     </div>
                                 </div>
+                                </a>
 
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                {{-- <div class="col-lg-4">
                     <div class="mx-5 mt-2">
                         <div class="font_weight_400 font_size_30 font_family_Paytone text-white">Subscribe</div>
                         <div class="mt-5 text-white font_family_popins font_size_16 font_weight_400 line_height_23">
@@ -131,7 +140,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
             </div>
 
             <div class="d-flex justify-content-center text-white font_size_15 font_weight_400 font_family_popins">

@@ -9,7 +9,7 @@
                     <div class="text-center">
                         <div
                             class="mt-3 font_size_50 font_weight_600 line_height_60 font_family_popins color_light_blue">
-                            Top Rated Nanny</div>
+                            Top rated caregiver</div>
                     </div>
                 </div>
             </div>
@@ -22,10 +22,10 @@
                             <img src="{{ asset('asset/images/babysitter-team4.jpg.png') }}" alt="team" class="team_img">
                         </div>
                         <div class="mx-4">
-                            <div class="font_family_Paytone font_size_24 color_light_blue font_weight_400">Steve Smith
+                            <div class="font_family_Paytone font_size_24 color_light_blue font_weight_400">Alicia Smith
                             </div>
                             <div class="font_family_Popins font_size_15 font_weight_500 color_pink text-uppercase">
-                                Manager
+                                Nanny
                             </div>
                             <div class="mt-4 d-flex">
                                 <div class="social_icons_container">
@@ -64,7 +64,7 @@
                             <div class="font_family_Paytone font_size_24 color_light_blue font_weight_400">Emily Taylor
                             </div>
                             <div class="font_family_Popins font_size_15 font_weight_500 color_purple text-uppercase">
-                                NANY
+                                Nanny
                             </div>
                             <div class="mt-4 d-flex">
                                 <div class="social_icons_container">
@@ -100,10 +100,10 @@
                             <img src="{{ asset('asset/images/babysitter-team1.jpg.png') }}" alt="team" class="team_img">
                         </div>
                         <div class="mx-4">
-                            <div class="font_family_Paytone font_size_24 color_light_blue font_weight_400">John Deo
+                            <div class="font_family_Paytone font_size_24 color_light_blue font_weight_400">Britanny Dole
                             </div>
                             <div class="font_family_Popins font_size_15 font_weight_500 color_green text-uppercase">
-                                Bebysitter
+                                Babysitte
                             </div>
                             <div class="mt-4 d-flex">
                                 <div class="social_icons_container">
@@ -139,10 +139,10 @@
                             <img src="{{ asset('asset/images/babysitter-team5.jpg.png') }}" alt="team" class="team_img">
                         </div>
                         <div class="mx-4">
-                            <div class="font_family_Paytone font_size_24 color_light_blue font_weight_400">David Hanso
+                            <div class="font_family_Paytone font_size_24 color_light_blue font_weight_400">Jennifer McCurry
                             </div>
                             <div class="font_family_Popins font_size_15 font_weight_500 color_yellow text-uppercase">
-                                babycare
+                                baby care
                             </div>
                             <div class="mt-4 d-flex">
                                 <div class="social_icons_container">
@@ -178,9 +178,9 @@
                             <img src="{{ asset('asset/images/babysitter-team3.jpg.png') }}" alt="team" class="team_img">
                         </div>
                         <div class="mx-4">
-                            <div class="font_family_Paytone font_size_24 color_light_blue font_weight_400">Becca Romijn
+                            <div class="font_family_Paytone font_size_24 color_light_blue font_weight_400">Becca Roslyn
                             </div>
-                            <div class="font_family_Popins font_size_15 font_weight_500 color_pink text-uppercase">Care
+                            <div class="font_family_Popins font_size_15 font_weight_500 color_pink text-uppercase"> Childcare
                             </div>
                             <div class="mt-4 d-flex">
                                 <div class="social_icons_container">
@@ -216,10 +216,10 @@
                             <img src="{{ asset('asset/images/babysitter-team2.jpg.png') }}" alt="team" class="team_img">
                         </div>
                         <div class="mx-4">
-                            <div class="font_family_Paytone font_size_24 color_light_blue font_weight_400">Michael Jack
+                            <div class="font_family_Paytone font_size_24 color_light_blue font_weight_400">Michelle Jacks
                             </div>
                             <div class="font_family_Popins font_size_15 font_weight_500 color_purple text-uppercase">
-                                Care
+                                Tutor
                             </div>
                             <div class="mt-4 d-flex">
                                 <div class="social_icons_container">

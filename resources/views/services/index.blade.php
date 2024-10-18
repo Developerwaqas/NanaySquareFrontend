@@ -30,7 +30,13 @@
                 <a href="/services/details" class="anker-style">
                     <div class="services-card-bg">
                         <div class="services-overlay">
-                            <div class="services-card-text">Tutoring Service</div>
+                            <div class="servicers_content">
+                                <div class="services-card-text">Tutoring Service</div>
+                                <div class="servicers-description mt-3">
+                                    Helping kids with their homework, assignments, projects, or focused study to improve
+                                    their skills at specific subjects.
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </a>
@@ -38,8 +44,14 @@
             <div class="col-sm-4 mb-4 mt-2">
                 <a href="/services/details" class="anker-style">
                     <div class="services-card-bg-maid">
-                        <div class="services-overlay-bottom">
-                            <div class="services-card-text">Maid Services </div>
+                        <div class="services-overlay">
+                            <div class="servicers_content">
+                                <div class="services-card-text">Maid Services
+                                </div>
+                                <div class="servicers-description mt-3">
+                                    Help with cleaning, laundry, and other household tasks to make things easy for you.
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </a>
@@ -47,8 +59,14 @@
             <div class="col-sm-4 mb-4 mt-2">
                 <a href="/services/details" class="anker-style">
                     <div class="services-card-bg-cook">
-                        <div class="services-overlay-bottom">
-                            <div class="services-card-text">Cook / Chef</div>
+                        <div class="services-overlay">
+                            <div class="servicers_content">
+                                <div class="services-card-text">Cook / Chef
+                                </div>
+                                <div class="servicers-description mt-3">
+                                    Enjoy home cooked meals in the comfort of your home. Meals cooked daily or in bulk. Grocery shopping can be included for your convenience.
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </a>
@@ -56,8 +74,14 @@
             <div class="col-sm-4 mb-4 mt-2">
                 <a href="/services/details" class="anker-style">
                     <div class="services-card-bg-driver">
-                        <div class="services-overlay-bottom">
-                            <div class="services-card-text">Driver / Chauffeur Services</div>
+                        <div class="services-overlay">
+                            <div class="servicers_content">
+                                <div class="services-card-text">Driver / Chauffeur Services
+                                </div>
+                                <div class="servicers-description mt-3">
+                                    Get around in comfort, ease and style either with your own vehicle or vehicle provided by the driver / chauffeur.
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </a>
@@ -65,8 +89,13 @@
             <div class="col-sm-4 mb-4 mt-2">
                 <a href="/services/details" class="anker-style">
                     <div class="services-card-bg-gardening">
-                        <div class="services-overlay-bottom">
-                            <div class="services-card-text">Gardening Services</div>
+                        <div class="services-overlay">
+                            <div class="servicers_content">
+                                <div class="services-card-text">Gardening Services</div>
+                                <div class="servicers-description mt-3">
+                                    Grass cutting / lawn mowing services, lawn care, garden maintenance, flower planting, etc.
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </a>
@@ -74,8 +103,13 @@
             <div class="col-sm-4 mb-4 mt-2">
                 <a href="/services/details" class="anker-style">
                     <div class="services-card-bg-shopper">
-                        <div class="services-overlay-bottom">
-                            <div class="services-card-text">Personal Shopper </div>
+                        <div class="services-overlay">
+                            <div class="servicers_content">
+                                <div class="services-card-text">Personal Shopper</div>
+                                <div class="servicers-description mt-3">
+                                    Help with shopping for a variety of things – grocery, school supplies, clothing, and other household needs.
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </a>
@@ -85,9 +119,13 @@
                     <div class="services-card-bg-baby">
                         <div class="services-overlay-bottom">
 
-                            <div class="services-card-text">
-                                <div class="card-subtitle">baby</div>
-                                Full-time nanny
+                            <div class="services-overlay">
+                                <div class="servicers_content">
+                                    <div class="services-card-text">Full-time nanny</div>
+                                    <div class="card-subtitle mt-3">
+                                        BABY
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -97,10 +135,12 @@
                 <a href="/services/details" class="anker-style">
                     <div class="services-card-bg-childcare">
                         <div class="services-overlay-bottom">
-                            <div class="services-card-text">
-                                <div class="card-subtitle">Childcare</div>
-                                Nanny Jobs
+                            <div class="servicers_content">
+                            <div class="services-card-text">Nanny Jobs</div>
+                            <div class="card-subtitle mt-3">
+                                Childcare
                             </div>
+                        </div>
                         </div>
                     </div>
                 </a>

@@ -1,7 +1,7 @@
 <header>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light h_100">
+    <nav class="navbar navbar-expand-lg navbar-light h_100">
         <div class="container">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="/">
                 <img src="{{ asset('asset/images/Logo.png') }}" alt="logo" class="header_logo">
             </a>
             <button class="navbar-toggler d-none d-md-none " type="button" data-bs-toggle="collapse"
@@ -37,34 +37,33 @@
                     </li>
                 </ul>
                 <div class="d-flex mr_60">
-                    <div class="social_icons_container">
+                    <a href="https://www.facebook.com/profile.php?id=100088067353309" class="anker">
+                        <div class="social_icons_container_header">
+                            <div class="d-flex justify-content-center">
+                                <div class="vertically_midle">
+                                    <i class="fa-brands fa-facebook "></i>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="https://www.instagram.com/nanny.square/" class="anker">
+                    <div class="social_icons_container_header mx-3">
                         <div class="d-flex justify-content-center">
                             <div class="vertically_midle">
-                                <i class="fa-brands fa-facebook-f color_theme"></i>
+                                <i class="fa-brands fa-instagram icons_size_contact "></i>
                             </div>
                         </div>
                     </div>
-                    <div class="social_icons_container mx-3">
+                    </a>
+                    <a href="https://www.linkedin.com/company/nanny-square/" class="anker">
+                    <div class="social_icons_container_header">
                         <div class="d-flex justify-content-center">
                             <div class="vertically_midle">
-                                <i class="fa-brands fa-twitter icons_size_contact color_theme"></i>
+                                <i class='fa-brands fa-linkedin-in icons_size_contact'></i>
                             </div>
                         </div>
                     </div>
-                    <div class="social_icons_container">
-                        <div class="d-flex justify-content-center">
-                            <div class="vertically_midle">
-                                <i class='bx bx-globe color_theme icons_size_contact'></i>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="social_icons_container">
-                        <div class="d-flex justify-content-center">
-                            <div class="vertically_midle">
-                                <i class='bx bx-globe color_theme icons_size_contact'></i>
-                            </div>
-                        </div>
-                    </div>
+                    </a>
                 </div>
                 <div class="d-flex ms-lg-auto">
                     <a href="https://app.nannysquare.com/login">
@@ -72,7 +71,7 @@
                     </a>
 
                     <a href="https://app.nannysquare.com/register">
-                        <button class="btn btn-primary-custom" type="submit">Register</button>
+                        <button class="btn btn-primary-custom-register" type="submit">Register</button>
                     </a>
                 </div>
             </div>
@@ -83,7 +82,7 @@
 <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
     <div class="offcanvas-header">
         <h5 class="offcanvas-title" id="offcanvasExampleLabel">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="/">
                 <img src="{{ asset('asset/images/Logo.png') }}" alt="logo" class="header_logo">
             </a>
         </h5>
@@ -113,34 +112,33 @@
                 </li>
             </ul>
             <div class="d-flex">
-                <div class="social_icons_container">
+                <a href="https://www.facebook.com/profile.php?id=100088067353309" class="anker">
+                    <div class="social_icons_container_header">
+                        <div class="d-flex justify-content-center">
+                            <div class="vertically_midle">
+                                <i class="fa-brands fa-facebook "></i>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://www.instagram.com/nanny.square/" class="anker">
+                <div class="social_icons_container_header mx-3">
                     <div class="d-flex justify-content-center">
                         <div class="vertically_midle">
-                            <i class="fa-brands fa-facebook-f color_theme"></i>
+                            <i class="fa-brands fa-instagram icons_size_contact "></i>
                         </div>
                     </div>
                 </div>
-                <div class="social_icons_container mx-3">
+                </a>
+                <a href="https://www.linkedin.com/company/nanny-square/" class="anker">
+                <div class="social_icons_container_header">
                     <div class="d-flex justify-content-center">
                         <div class="vertically_midle">
-                            <i class="fa-brands fa-twitter icons_size_contact color_theme"></i>
+                            <i class='fa-brands fa-linkedin-in icons_size_contact'></i>
                         </div>
                     </div>
                 </div>
-                <div class="social_icons_container">
-                    <div class="d-flex justify-content-center">
-                        <div class="vertically_midle">
-                            <i class='bx bx-globe color_theme icons_size_contact'></i>
-                        </div>
-                    </div>
-                </div>
-                <div class="social_icons_container">
-                    <div class="d-flex justify-content-center">
-                        <div class="vertically_midle">
-                            <i class='bx bx-globe color_theme icons_size_contact'></i>
-                        </div>
-                    </div>
-                </div>
+                </a>
             </div>
             <div class="d-flex ms-lg-auto mt-4">
                 <a href="https://app.nannysquare.com/login">

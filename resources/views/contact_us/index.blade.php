@@ -41,7 +41,7 @@
                             Email
                         </div>
                         <div class="grey_200 font_size_16 font_weight_500 font_family_popins">
-                            nanny@gmail.com
+                            contactus@nannysquare.com
                         </div>
                     </div>
                 </div>
@@ -79,32 +79,38 @@
                             Address
                         </div>
                         <div class="grey_200 font_size_16 font_weight_500 font_family_popins">
-                            A-1, Envanto HQ, Australia.
+                            Houston, TX, USA
                         </div>
                     </div>
                 </div>
                 <div class="mt-5 d-flex">
-                    <div class="social_icons_container">
-                        <div class="d-flex justify-content-center">
-                            <div class="vertically_midle">
-                                <i class="fa-brands fa-facebook-f color_theme"></i>
+                    <a href="https://www.facebook.com/profile.php?id=100088067353309" class="anker">
+                        <div class="social_icons_container_header">
+                            <div class="d-flex justify-content-center">
+                                <div class="vertically_midle">
+                                    <i class="fa-brands fa-facebook "></i>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="social_icons_container mx-3">
-                        <div class="d-flex justify-content-center">
-                            <div class="vertically_midle">
-                                <i class="fa-brands fa-twitter icons_size_contact color_theme"></i>
+                    </a>
+                    <a href="https://www.instagram.com/nanny.square/" class="anker">
+                        <div class="social_icons_container_header mx-3">
+                            <div class="d-flex justify-content-center">
+                                <div class="vertically_midle">
+                                    <i class="fa-brands fa-instagram icons_size_contact "></i>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="social_icons_container">
-                        <div class="d-flex justify-content-center">
-                            <div class="vertically_midle">
-                                <i class='bx bx-globe color_theme icons_size_contact'></i>
+                    </a>
+                    <a href="https://www.linkedin.com/company/nanny-square/" class="anker">
+                        <div class="social_icons_container_header">
+                            <div class="d-flex justify-content-center">
+                                <div class="vertically_midle">
+                                    <i class='fa-brands fa-linkedin-in icons_size_contact'></i>
+                                </div>
                             </div>
                         </div>
-                    </div>
+                    </a>
 
                 </div>
             </div>
@@ -129,7 +135,7 @@
                         <div>
                             <textarea
                                 class="form-control contact_us_textarea  font_family_popins font_size_16 font_weight_500"
-                                id="exampleFormControlTextarea1" rows="3"></textarea>
+                                id="exampleFormControlTextarea1" rows="6"></textarea>
                         </div>
                         <div class="mt-4">
                             <button type="submit"
