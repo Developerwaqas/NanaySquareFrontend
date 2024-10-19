@@ -20,11 +20,11 @@
                                 environment.
                             </div>
                             <div class=" mt-4">
-                                <a href="https://app.nannysquare.com/register">
+                                <a href="https://app.nannysquare.com/register" class="anker">
                                     <button class="btn btn-primary-custom-cogressive" type="submit">I Am
                                         Caregiver</button>
                                 </a>
-                                <a href="https://app.nannysquare.com/register">
+                                <a href="https://app.nannysquare.com/register" class="anker">
                                     <button
                                         class="btn btn-primary-custom-finder mx-lg-3 mx-md-3 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
                                         type="submit">Find
@@ -54,11 +54,11 @@
                                 lifestyle.
                             </div>
                             <div class=" mt-4">
-                                <a href="https://app.nannysquare.com/register">
+                                <a href="https://app.nannysquare.com/register" class="anker">
                                     <button class="btn btn-primary-custom-cogressive" type="submit">I Am
                                         Caregiver</button>
                                 </a>
-                                <a href="https://app.nannysquare.com/register">
+                                <a href="https://app.nannysquare.com/register" class="anker">
                                     <button
                                         class="btn btn-primary-custom-finder mx-lg-3 mx-md-3 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
                                         type="submit">Find
@@ -88,11 +88,11 @@
 
                             </div>
                             <div class=" mt-4">
-                                <a href="https://app.nannysquare.com/register">
+                                <a href="https://app.nannysquare.com/register" class="anker">
                                     <button class="btn btn-primary-custom-cogressive" type="submit">I Am
                                         Caregiver</button>
                                 </a>
-                                <a href="https://app.nannysquare.com/register">
+                                <a href="https://app.nannysquare.com/register" class="anker">
                                     <button
                                         class="btn btn-primary-custom-finder mx-lg-3 mx-md-3 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
                                         type="submit">Find

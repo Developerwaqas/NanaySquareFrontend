@@ -29,7 +29,7 @@
                         <a class="nav-link {{ request()->is('help') ? 'active' : '' }}" href="/#help">Help</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link {{ request()->is('blog') ? 'active' : '' }}" href="/#blog">Blog</a>
+                        <a class="nav-link {{ request()->is('blog') ? 'active' : '' }}" href="/blogs">Blog</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link {{ request()->is('contact_us') ? 'active' : '' }}" href="/contact_us">Contact
