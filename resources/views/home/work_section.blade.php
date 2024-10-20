@@ -1,13 +1,13 @@
 <section class="need-nany-mt-100 bg_img_work_section" id="">
     <div class="container-fluid">
         <div class="d-flex justify-content-center">
-            <div class="font_size_50 font_weight_600 line_height_60 font_family_popins color_light_blue_work">How it works?
+            <div class="font_size_40 font_weight_700 line_height_60 font_family_popins color_light_blue_work">How it works?
             </div>
         </div>
 
         <div class="mx-4">
-            <div class="d-flex flex-wrap font_family_Montserrat align-items-center justify-content-between mt-5">
-                <div class="left-panel-w ml__50">
+            <div class="row font_family_Montserrat align-items-center justify-content-between mt-5">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-12">
                     <div class="row">
                         <div class="col-lg-10">
                             <div class="sm_ml_5">
@@ -95,9 +95,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="middle-graph">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-12">
                     <div class="d-flex align-items-center">
-                        <div class="elpis_container"> <img src="{{ asset('asset/images/elips.png') }}" alt="elips"
+                        <img src="{{ asset('asset/images/Shape.png') }}" alt="images" style="width: 90%; height: 100%;">
+                        {{-- <div class="elpis_container"> <img src="{{ asset('asset/images/elips.png') }}" alt="elips"
                                 class="elips_img mr_4">
                             <div class="elips_text">
                                 Find <br /> <span style="margin-left: -20px;">CAREGIVER</span>
@@ -113,10 +114,10 @@
                             <div class="elips_text">
                                 I'M A <br /> CAREGIVER
                             </div>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
-                <div class="right-panel-w">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-12">
                     <div class="row sm_ml_5 align-items-end">
                         <div class="col-lg-10">
                             <div class="mt-4">

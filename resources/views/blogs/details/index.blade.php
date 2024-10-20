@@ -155,6 +155,7 @@
                             Share:
                         </div>
                         <div class="d-flex">
+                            <a href="https://www.facebook.com/profile.php?id=100088067353309" class="anker">
                             <div class="social_icons_container">
                                 <div class="d-flex justify-content-center">
                                     <div class="vertically_midle">
@@ -162,20 +163,25 @@
                                     </div>
                                 </div>
                             </div>
+                            </a>
+                            <a href="https://www.instagram.com/nanny.square/" class="anker">
                             <div class="social_icons_container mx-3">
                                 <div class="d-flex justify-content-center">
                                     <div class="vertically_midle">
-                                        <i class="fa-brands fa-twitter icons_size_contact color_theme"></i>
+                                        <i class="fa-brands fa-instagram icons_size_contact color_theme"></i>
                                     </div>
                                 </div>
                             </div>
+                            </a>
+                            <a href="https://www.linkedin.com/company/nanny-square/" class="anker">
                             <div class="social_icons_container">
                                 <div class="d-flex justify-content-center">
                                     <div class="vertically_midle">
-                                        <i class='bx bxl-linkedin color_theme icons_size_contact'></i>
+                                        <i class='fa-brands fa-linkedin-in color_theme icons_size_contact'></i>
                                     </div>
                                 </div>
                             </div>
+                            </a>
 
                         </div>
                     </div>

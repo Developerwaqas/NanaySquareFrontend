@@ -9,13 +9,13 @@
                 <div class="d-flex justify-content-center mt-4">
                     <div class="d-flex">
                         <div
-                            class="color_theme font_size_15 font_weight_600 font_family_popins hover_effect text-uppercase">
+                            class="color_theme font_size_13 font_weight_600 font_family_popins hover_effect text-uppercase">
                             Home</div>
                         <div class="mx-3">
                             <i class="fa-solid fa-angle-double-right"></i>
                         </div>
                         <div
-                            class="color_purple font_size_15 font_weight_600 font_family_popins hover_effect text-uppercase">
+                            class="color_purple font_size_13 font_weight_600 font_family_popins hover_effect text-uppercase">
                             Services</div>
                     </div>
                 </div>
@@ -262,38 +262,44 @@
                                             class="team_img">
                                     </div>
                                     <div class="mx-4">
-                                        <div class="font_family_Paytone font_size_24 color_light_blue font_weight_400">
+                                        <div class="font_family_Paytone font_size_20 color_light_blue font_weight_400">
                                             Steve Smith
                                         </div>
                                         <div
-                                            class="font_family_Popins font_size_15 font_weight_500 color_pink text-uppercase">
+                                            class="font_family_Popins font_size_13 font_weight_500 color_pink text-uppercase">
                                             Manager
                                         </div>
                                         <div class="mt-4 d-flex">
-                                            <div class="social_icons_container">
-                                                <div class="d-flex justify-content-center">
-                                                    <div class="vertically_midle">
-                                                        <i class="fa-brands fa-facebook-f color_theme"></i>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="social_icons_container mx-3">
-                                                <div class="d-flex justify-content-center">
-                                                    <div class="vertically_midle">
-                                                        <i
-                                                            class="fa-brands fa-twitter icons_size_contact color_theme"></i>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="social_icons_container">
-                                                <div class="d-flex justify-content-center">
-                                                    <div class="vertically_midle">
-                                                        <i
-                                                            class='fa-brands fa-linkedin-in color_theme icons_size_contact'></i>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                            <a href="https://www.facebook.com/profile.php?id=100088067353309" class="anker">
 
+                                                <div class="social_icons_container">
+                                                    <div class="d-flex justify-content-center">
+                                                        <div class="vertically_midle">
+                                                            <i class="fa-brands fa-facebook-f color_theme"></i>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                            <a href="https://www.instagram.com/nanny.square/" class="anker">
+                                                <div class="social_icons_container mx-3">
+                                                    <div class="d-flex justify-content-center">
+                                                        <div class="vertically_midle">
+                                                            <i class="fa-brands fa-instagram icons_size_contact color_theme"></i>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                            <a href="https://www.linkedin.com/company/nanny-square/" class="anker">
+
+                                                <div class="social_icons_container">
+                                                    <div class="d-flex justify-content-center">
+                                                        <div class="vertically_midle">
+                                                            <i class='fa-brands fa-linkedin-in color_theme icons_size_contact'></i>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
@@ -306,38 +312,44 @@
                                             class="team_img">
                                     </div>
                                     <div class="mx-4">
-                                        <div class="font_family_Paytone font_size_24 color_light_blue font_weight_400">
+                                        <div class="font_family_Paytone font_size_20 color_light_blue font_weight_400">
                                             Emily Taylor
                                         </div>
                                         <div
-                                            class="font_family_Popins font_size_15 font_weight_500 color_purple text-uppercase">
+                                            class="font_family_Popins font_size_13 font_weight_500 color_purple text-uppercase">
                                             NANY
                                         </div>
                                         <div class="mt-4 d-flex">
-                                            <div class="social_icons_container">
-                                                <div class="d-flex justify-content-center">
-                                                    <div class="vertically_midle">
-                                                        <i class="fa-brands fa-facebook-f color_theme"></i>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="social_icons_container mx-3">
-                                                <div class="d-flex justify-content-center">
-                                                    <div class="vertically_midle">
-                                                        <i
-                                                            class="fa-brands fa-twitter icons_size_contact color_theme"></i>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="social_icons_container">
-                                                <div class="d-flex justify-content-center">
-                                                    <div class="vertically_midle">
-                                                        <i
-                                                            class='fa-brands fa-linkedin-in color_theme icons_size_contact'></i>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                            <a href="https://www.facebook.com/profile.php?id=100088067353309" class="anker">
 
+                                                <div class="social_icons_container">
+                                                    <div class="d-flex justify-content-center">
+                                                        <div class="vertically_midle">
+                                                            <i class="fa-brands fa-facebook-f color_theme"></i>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                            <a href="https://www.instagram.com/nanny.square/" class="anker">
+                                                <div class="social_icons_container mx-3">
+                                                    <div class="d-flex justify-content-center">
+                                                        <div class="vertically_midle">
+                                                            <i class="fa-brands fa-instagram icons_size_contact color_theme"></i>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                            <a href="https://www.linkedin.com/company/nanny-square/" class="anker">
+
+                                                <div class="social_icons_container">
+                                                    <div class="d-flex justify-content-center">
+                                                        <div class="vertically_midle">
+                                                            <i class='fa-brands fa-linkedin-in color_theme icons_size_contact'></i>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
@@ -350,38 +362,44 @@
                                             class="team_img">
                                     </div>
                                     <div class="mx-4">
-                                        <div class="font_family_Paytone font_size_24 color_light_blue font_weight_400">
+                                        <div class="font_family_Paytone font_size_20 color_light_blue font_weight_400">
                                             John Deo
                                         </div>
                                         <div
-                                            class="font_family_Popins font_size_15 font_weight_500 color_green text-uppercase">
+                                            class="font_family_Popins font_size_13 font_weight_500 color_green text-uppercase">
                                             Bebysitter
                                         </div>
                                         <div class="mt-4 d-flex">
-                                            <div class="social_icons_container">
-                                                <div class="d-flex justify-content-center">
-                                                    <div class="vertically_midle">
-                                                        <i class="fa-brands fa-facebook-f color_theme"></i>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="social_icons_container mx-3">
-                                                <div class="d-flex justify-content-center">
-                                                    <div class="vertically_midle">
-                                                        <i
-                                                            class="fa-brands fa-twitter icons_size_contact color_theme"></i>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="social_icons_container">
-                                                <div class="d-flex justify-content-center">
-                                                    <div class="vertically_midle">
-                                                        <i
-                                                            class='fa-brands fa-linkedin-in color_theme icons_size_contact'></i>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                            <a href="https://www.facebook.com/profile.php?id=100088067353309" class="anker">
 
+                                                <div class="social_icons_container">
+                                                    <div class="d-flex justify-content-center">
+                                                        <div class="vertically_midle">
+                                                            <i class="fa-brands fa-facebook-f color_theme"></i>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                            <a href="https://www.instagram.com/nanny.square/" class="anker">
+                                                <div class="social_icons_container mx-3">
+                                                    <div class="d-flex justify-content-center">
+                                                        <div class="vertically_midle">
+                                                            <i class="fa-brands fa-instagram icons_size_contact color_theme"></i>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                            <a href="https://www.linkedin.com/company/nanny-square/" class="anker">
+
+                                                <div class="social_icons_container">
+                                                    <div class="d-flex justify-content-center">
+                                                        <div class="vertically_midle">
+                                                            <i class='fa-brands fa-linkedin-in color_theme icons_size_contact'></i>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
@@ -394,38 +412,44 @@
                                             class="team_img">
                                     </div>
                                     <div class="mx-4">
-                                        <div class="font_family_Paytone font_size_24 color_light_blue font_weight_400">
+                                        <div class="font_family_Paytone font_size_20 color_light_blue font_weight_400">
                                             David Hanso
                                         </div>
                                         <div
-                                            class="font_family_Popins font_size_15 font_weight_500 color_yellow text-uppercase">
+                                            class="font_family_Popins font_size_13 font_weight_500 color_yellow text-uppercase">
                                             babycare
                                         </div>
                                         <div class="mt-4 d-flex">
-                                            <div class="social_icons_container">
-                                                <div class="d-flex justify-content-center">
-                                                    <div class="vertically_midle">
-                                                        <i class="fa-brands fa-facebook-f color_theme"></i>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="social_icons_container mx-3">
-                                                <div class="d-flex justify-content-center">
-                                                    <div class="vertically_midle">
-                                                        <i
-                                                            class="fa-brands fa-twitter icons_size_contact color_theme"></i>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="social_icons_container">
-                                                <div class="d-flex justify-content-center">
-                                                    <div class="vertically_midle">
-                                                        <i
-                                                            class='fa-brands fa-linkedin-in color_theme icons_size_contact'></i>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                            <a href="https://www.facebook.com/profile.php?id=100088067353309" class="anker">
 
+                                                <div class="social_icons_container">
+                                                    <div class="d-flex justify-content-center">
+                                                        <div class="vertically_midle">
+                                                            <i class="fa-brands fa-facebook-f color_theme"></i>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                            <a href="https://www.instagram.com/nanny.square/" class="anker">
+                                                <div class="social_icons_container mx-3">
+                                                    <div class="d-flex justify-content-center">
+                                                        <div class="vertically_midle">
+                                                            <i class="fa-brands fa-instagram icons_size_contact color_theme"></i>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                            <a href="https://www.linkedin.com/company/nanny-square/" class="anker">
+
+                                                <div class="social_icons_container">
+                                                    <div class="d-flex justify-content-center">
+                                                        <div class="vertically_midle">
+                                                            <i class='fa-brands fa-linkedin-in color_theme icons_size_contact'></i>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </a>
                                         </div>
                                     </div>
                                 </div>

@@ -4,7 +4,7 @@
             <div class="bage_title_blue font_size_15 font_family_popins font_weight_600">why choose us</div>
         </div>
         <div class="text-center">
-            <div class="mt-3 font_size_50 font_weight_600 line_height_60 font_family_popins color_light_blue">
+            <div class="mt-3 font_size_40 font_weight_700 line_height_60 font_family_popins color_light_blue">
                 What can We offer You?</div>
         </div>
         <div class="container mt-5 mb-5">

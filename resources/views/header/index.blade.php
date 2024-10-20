@@ -152,3 +152,17 @@
         </div>
     </div>
 </div>
+
+
+<script>
+    window.onscroll = function() { fixHeaderOnScroll() };
+
+    function fixHeaderOnScroll() {
+        var header = document.querySelector("nav.navbar");
+        if (window.pageYOffset > 200) {
+            header.classList.add("fixed-top");
+        } else {
+            header.classList.remove("fixed-top");
+        }
+    }
+</script>

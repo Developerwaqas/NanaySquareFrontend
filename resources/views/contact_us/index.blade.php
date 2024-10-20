@@ -32,7 +32,7 @@
                     <div class="email_container">
                         <div class="icon_container">
                             <div class="d-flex justify-content-center">
-                                <img src="{{ asset('asset/images/email.png') }}" alt="email" class="w_30 h_20">
+                                <img src="{{ asset('asset/images/email.png') }}" alt="email" class="w_25 h_20">
                             </div>
                         </div>
                     </div>
