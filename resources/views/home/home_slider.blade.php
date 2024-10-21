@@ -1,4 +1,4 @@
-<section class="m-5">
+<section class="m-1 m-lg-5 m-md-3 m-sm-1">
 
     <div id="demo" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
@@ -32,7 +32,7 @@
                                         </a>
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button
-                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-3 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
+                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
                                                 type="submit">Find
                                                 Caregiver</button>
                                         </a>
@@ -77,7 +77,7 @@
                                         </a>
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button
-                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-3 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
+                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
                                                 type="submit">Find
                                                 Caregiver</button>
                                         </a>
@@ -121,7 +121,7 @@
                                         </a>
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button
-                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-3 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
+                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
                                                 type="submit">Find
                                                 Caregiver</button>
                                         </a>
@@ -167,7 +167,7 @@
                                         </a>
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button
-                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-3 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
+                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
                                                 type="submit">Find
                                                 Caregiver</button>
                                         </a>
@@ -211,7 +211,7 @@
                                         </a>
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button
-                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-3 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
+                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
                                                 type="submit">Find
                                                 Caregiver</button>
                                         </a>
@@ -255,7 +255,7 @@
                                         </a>
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button
-                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-3 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
+                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
                                                 type="submit">Find
                                                 Caregiver</button>
                                         </a>
@@ -299,7 +299,7 @@
                                         </a>
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button
-                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-3 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
+                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
                                                 type="submit">Find
                                                 Caregiver</button>
                                         </a>

@@ -2838,11 +2838,8 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    /* Vertically center the content */
     justify-content: center;
-    /* Center horizontally if needed */
     height: 80vh;
-    /* Full viewport height */
     position: relative;
 }
 
@@ -2955,45 +2952,50 @@ body {
 }
 
 @media only screen and (max-width: 1024px) {
-
-    .home-banner-img {
-        width: 100%;
-        height: 50vh;
-        /* Full viewport height */
-        object-fit: 100% 100%;
-        /* Ensures image doesn't stretch */
-        position: absolute;
-        top: 0;
-        left: 0;
-        z-index: -1;
-        /* Keeps the image behind the content */
+    
+    .btn-primary-custom-cogressive:hover {
+        background-color: #1a6f89 !important;
     }
-
+    
+    .btn-primary-custom-cogressive {
+        background-color: #57B6E6 !important;
+        color: #fff !important;
+        width: 150px !important;
+        height: 55px !important;
+        border-radius: 50px !important;
+        font-size: 15px !important;
+        font-weight: 600 !important;
+        font-family: 'Poppins', sans-serif !important;
+        margin-bottom: 10px;
+    }
+    
+    .btn-primary-custom-finder:hover {
+        background-color: #1a6f89 !important;
+    }
+    
+    .btn-primary-custom-finder {
+        background-color: #5E59E7 !important;
+        color: #fff !important;
+        width: 150px !important;
+        height: 55px !important;
+        border-radius: 50px !important;
+        font-size: 15px !important;
+        font-weight: 600 !important;
+        font-family: 'Poppins', sans-serif !important;
+    }
+    
+    
     .align-vertically-center {
         display: flex;
         flex-direction: column;
         align-items: center;
-        /* Vertically center the content */
         justify-content: center;
-        /* Center horizontally if needed */
-        height: 50vh;
-        /* Full viewport height */
+        height: 40vh;
         position: relative;
     }
 
-    .home-banner-content {
-        text-align: left;
-        /* Align text to the left */
-        color: white;
-        /* Adjust color based on your design */
-        z-index: 1;
-        /* Make sure the content is above the image */
-        padding: 0px 4%;
-        /* Optional: Add padding if needed */
-    }
-
     .banner-title {
-        color: #FFF;
+        color: #57B6E6;
         font-family: 'Poppins', sans-serif;
         font-size: 40px;
         font-style: normal;
@@ -3002,7 +3004,7 @@ body {
     }
 
     .banner-sub-title {
-        color: #FFF;
+        color: #57B6E6;
         font-family: 'Poppins', sans-serif;
         font-size: 20px;
         font-style: normal;
@@ -3168,42 +3170,14 @@ body {
 
 @media only screen and (max-width: 768px) {
 
-    .home-banner-img {
-        width: 100%;
-        height: 50vh;
-        /* Full viewport height */
-        object-fit: cover;
-        /* Ensures image doesn't stretch */
-        position: absolute;
-        top: 0;
-        left: 0;
-        z-index: -1;
-        /* Keeps the image behind the content */
-    }
-
     .align-vertically-center {
         display: flex;
         flex-direction: column;
         align-items: center;
-        /* Vertically center the content */
         justify-content: center;
-        /* Center horizontally if needed */
-        height: 50vh;
-        /* Full viewport height */
+        height: 100%;
         position: relative;
     }
-
-    .home-banner-content {
-        text-align: left;
-        /* Align text to the left */
-        color: white;
-        /* Adjust color based on your design */
-        z-index: 1;
-        /* Make sure the content is above the image */
-        padding: 0px 4%;
-        /* Optional: Add padding if needed */
-    }
-
 
     .left-panel-w {
         width: 100%;
@@ -3214,7 +3188,7 @@ body {
     }
 
     .banner-title {
-        color: #FFF;
+        color: #57B6E6;
         font-family: 'Poppins', sans-serif;
         font-size: 15px;
         font-style: normal;
@@ -3223,7 +3197,7 @@ body {
     }
 
     .banner-sub-title {
-        color: #FFF;
+        color: #57B6E6;
         font-family: 'Poppins', sans-serif;
         font-size: 13px;
         font-style: normal;
@@ -3232,7 +3206,7 @@ body {
     }
 
     .banner-description {
-        color: #FFF;
+        color: rgba(29, 33, 80, 0.65);
         font-family: 'Poppins', sans-serif;
         font-size: 12px;
         font-style: normal;
