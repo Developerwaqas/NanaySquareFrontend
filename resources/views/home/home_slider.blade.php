@@ -40,7 +40,7 @@
                                 </div>
 
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                                    <div>
+                                    <div class="d-flex justify-content-end">
                                         <img src="{{ asset('asset/images/slide1.png') }}" alt="slide"
                                             class="slide-images-size">
                                     </div>
@@ -85,7 +85,7 @@
                                 </div>
 
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                                    <div>
+                                    <div class="d-flex justify-content-end">
                                         <img src="{{ asset('asset/images/slide2.png') }}" alt="slide"
                                             class="slide-images-size">
                                     </div>
@@ -129,7 +129,7 @@
                                 </div>
 
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                                    <div>
+                                    <div class="d-flex justify-content-end">
                                         <img src="{{ asset('asset/images/slide3.png') }}" alt="slide"
                                             class="slide-images-size">
                                     </div>
@@ -175,7 +175,7 @@
                                 </div>
 
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                                    <div>
+                                    <div class="d-flex justify-content-end">
                                         <img src="{{ asset('asset/images/slide4.png') }}" alt="slide"
                                             class="slide-images-size">
                                     </div>
@@ -219,7 +219,7 @@
                                 </div>
 
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                                    <div>
+                                    <div class="d-flex justify-content-end">
                                         <img src="{{ asset('asset/images/slide5.png') }}" alt="slide"
                                             class="slide-images-size">
                                     </div>
@@ -263,7 +263,7 @@
                                 </div>
 
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                                    <div>
+                                    <div class="d-flex justify-content-end">
                                         <img src="{{ asset('asset/images/slide6.png') }}" alt="slide"
                                             class="slide-images-size">
                                     </div>
@@ -307,7 +307,7 @@
                                 </div>
 
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                                    <div>
+                                    <div class="d-flex justify-content-end">
                                         <img src="{{ asset('asset/images/slide7.png') }}" alt="slide"
                                             class="slide-images-size">
                                     </div>
