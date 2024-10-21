@@ -135,7 +135,7 @@ body {
     font-size: 15px;
 }
 
-.font_size_13{
+.font_size_13 {
     font-size: 13px;
 }
 
@@ -215,7 +215,7 @@ body {
     font-weight: 700;
 }
 
-.font_weight_800{
+.font_weight_800 {
     font-weight: 800;
 }
 
@@ -330,7 +330,7 @@ body {
     width: 100%;
     height: 100%;
     /* Adjust this value as needed */
-    padding:0px 20px;
+    padding: 0px 20px;
 }
 
 .mapouter {
@@ -612,7 +612,7 @@ body {
     width: 30px;
 }
 
-.w_25{
+.w_25 {
     width: 25px;
 }
 
@@ -655,7 +655,7 @@ body {
     border-radius: 50px;
 }
 
-.social_icons_container_header{
+.social_icons_container_header {
     width: 35px;
     height: 35px;
     background-color: #f1f1f1;
@@ -663,7 +663,7 @@ body {
     color: #1D2150;
 }
 
-.social_icons_container_header:hover{
+.social_icons_container_header:hover {
     width: 35px;
     height: 35px;
     background-color: #4e88a6;
@@ -796,7 +796,7 @@ body {
     background-color: #9A7BF0 !important;
 }
 
-.btn-primary-custom-register{
+.btn-primary-custom-register {
     background-color: #5E59E7 !important;
     color: #fff !important;
     width: 110px !important;
@@ -928,7 +928,7 @@ body {
     border-radius: 8px;
 }
 
-.bage_title_blue{
+.bage_title_blue {
     color: #3039b8;
     text-transform: uppercase;
     background-color: #fff;
@@ -1026,7 +1026,7 @@ body {
     margin-left: -10px !important;
 }
 
-.ml__30{
+.ml__30 {
     margin-left: 30px;
 }
 
@@ -1159,7 +1159,7 @@ body {
     justify-content: center;
 }
 
-.m_h_300{
+.m_h_300 {
     min-height: 300px;
 }
 
@@ -2365,7 +2365,7 @@ body {
     height: 100%;
 }
 
-.servicers_content{
+.servicers_content {
     position: absolute;
     bottom: 10px;
     padding: 30px 30px;
@@ -2381,7 +2381,7 @@ body {
     text-transform: capitalize;
 }
 
-.servicers-description{
+.servicers-description {
     color: #fff;
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
@@ -2420,6 +2420,11 @@ body {
 .inner-box-header {
     padding: 20px 30px;
     border-bottom: 1px solid #E5E5E5;
+}
+
+.header {
+    background: #FFF !important;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.10) !important;
 }
 
 .details-page-title {
@@ -2792,17 +2797,21 @@ body {
 }
 
 .read-more-btn a .icon {
-    margin-left: 10px; /* Space between text and the icon */
+    margin-left: 10px;
+    /* Space between text and the icon */
     transition: transform 0.3s ease;
-    font-size: 14px; /* Adjust icon size */
+    font-size: 14px;
+    /* Adjust icon size */
 }
 
 .read-more-btn a .icon::before {
-    content: "+"; /* Initially show plus symbol */
+    content: "+";
+    /* Initially show plus symbol */
 }
 
 .read-more-btn a:hover .icon::before {
-    content: "→"; /* Change to arrow on hover */
+    content: "→";
+    /* Change to arrow on hover */
 }
 
 
@@ -2814,32 +2823,67 @@ body {
 
 .home-banner-img {
     width: 100%;
-    height: 100vh; /* Full viewport height */
-    object-fit: cover; /* Ensures image doesn't stretch */
+    height: 100vh;
+    /* Full viewport height */
+    object-fit: cover;
+    /* Ensures image doesn't stretch */
     position: absolute;
     top: 0;
     left: 0;
-    z-index: -1; /* Keeps the image behind the content */
+    z-index: -1;
+    /* Keeps the image behind the content */
 }
 
 .align-vertically-center {
     display: flex;
     flex-direction: column;
-    align-items: center; /* Vertically center the content */
-    justify-content: center; /* Center horizontally if needed */
-    height: 100vh; /* Full viewport height */
+    align-items: center;
+    /* Vertically center the content */
+    justify-content: center;
+    /* Center horizontally if needed */
+    height: 80vh;
+    /* Full viewport height */
     position: relative;
 }
 
+.bg-info-slider-1 {
+    border-radius: 31px;
+    padding: 40px;
+}
+
+.bg-slider-2 {
+    border-radius: 31px;
+    padding: 40px;
+}
+
+.bg-slider-3 {
+    border-radius: 31px;
+    padding: 40px;
+}
+
+.bg-slider-4 {
+    border-radius: 31px;
+    padding: 40px;
+}
+
+.slide-images-size {
+    width: 100%;
+    height: 100%;
+}
+
 .home-banner-content {
-    text-align: left; /* Align text to the left */
-    color: white; /* Adjust color based on your design */
-    z-index: 1; /* Make sure the content is above the image */
-    padding: 0px 8%; /* Optional: Add padding if needed */
+    text-align: left;
+    /* Align text to the left */
+    color: white;
+    /* Adjust color based on your design */
+    z-index: 1;
+    /* Make sure the content is above the image */
+    padding: 0px 8%;
+    /* Optional: Add padding if needed */
 }
 
 .banner-title {
-    color: #FFF;
+    color: #57B6E6;
     font-family: 'Poppins', sans-serif;
     font-size: 40px;
     font-style: normal;
@@ -2847,8 +2891,8 @@ body {
     line-height: normal;
 }
 
-.banner-sub-title{
-    color: #FFF;
+.banner-sub-title {
+    color: #57B6E6;
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
     font-style: normal;
@@ -2857,7 +2901,7 @@ body {
 }
 
 .banner-description {
-    color: #FFF;
+    color: rgba(29, 33, 80, 0.65);
     font-family: 'Poppins', sans-serif;
     font-size: 17px;
     font-style: normal;
@@ -2893,20 +2937,20 @@ body {
     cursor: pointer;
 }
 
-.back-img{
+.back-img {
     width: 50px;
     height: 50px;
 }
 
-.left-panel-w{
+.left-panel-w {
     width: 35%;
 }
 
-.middle-graph{
+.middle-graph {
     width: 30%;
 }
 
-.ml__50{
+.ml__50 {
     margin-right: -20px;
 }
 
@@ -2914,29 +2958,40 @@ body {
 
     .home-banner-img {
         width: 100%;
-        height: 50vh; /* Full viewport height */
-        object-fit: 100% 100%; /* Ensures image doesn't stretch */
+        height: 50vh;
+        /* Full viewport height */
+        object-fit: 100% 100%;
+        /* Ensures image doesn't stretch */
         position: absolute;
         top: 0;
         left: 0;
-        z-index: -1; /* Keeps the image behind the content */
+        z-index: -1;
+        /* Keeps the image behind the content */
     }
 
     .align-vertically-center {
         display: flex;
         flex-direction: column;
-        align-items: center; /* Vertically center the content */
-        justify-content: center; /* Center horizontally if needed */
-        height: 50vh; /* Full viewport height */
+        align-items: center;
+        /* Vertically center the content */
+        justify-content: center;
+        /* Center horizontally if needed */
+        height: 50vh;
+        /* Full viewport height */
         position: relative;
     }
 
     .home-banner-content {
-        text-align: left; /* Align text to the left */
-        color: white; /* Adjust color based on your design */
-        z-index: 1; /* Make sure the content is above the image */
-        padding: 0px 4%; /* Optional: Add padding if needed */
+        text-align: left;
+        /* Align text to the left */
+        color: white;
+        /* Adjust color based on your design */
+        z-index: 1;
+        /* Make sure the content is above the image */
+        padding: 0px 4%;
+        /* Optional: Add padding if needed */
     }
+
     .banner-title {
         color: #FFF;
         font-family: 'Poppins', sans-serif;
@@ -2946,7 +3001,7 @@ body {
         line-height: normal;
     }
 
-    .banner-sub-title{
+    .banner-sub-title {
         color: #FFF;
         font-family: 'Poppins', sans-serif;
         font-size: 20px;
@@ -2981,7 +3036,7 @@ body {
         background-color: #9A7BF0 !important;
     }
 
-    .btn-primary-custom-register{
+    .btn-primary-custom-register {
         background-color: #5E59E7 !important;
         color: #fff !important;
         width: 100px !important;
@@ -2997,11 +3052,11 @@ body {
         background-color: #9A7BF0 !important;
     }
 
-    .left-panel-w{
+    .left-panel-w {
         width: 50%;
     }
 
-    .middle-graph{
+    .middle-graph {
         width: 50%;
     }
 
@@ -3103,8 +3158,10 @@ body {
 .navbar.fixed-top {
     position: fixed;
     top: 0;
-    background-color: #fff; /* Change background as per your design */
-    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1); /* Optional: Add shadow when fixed */
+    background-color: #fff;
+    /* Change background as per your design */
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    /* Optional: Add shadow when fixed */
     z-index: 1030;
     transition: 1s ease-in;
 }
@@ -3113,38 +3170,49 @@ body {
 
     .home-banner-img {
         width: 100%;
-        height: 50vh; /* Full viewport height */
-        object-fit: cover; /* Ensures image doesn't stretch */
+        height: 50vh;
+        /* Full viewport height */
+        object-fit: cover;
+        /* Ensures image doesn't stretch */
         position: absolute;
         top: 0;
         left: 0;
-        z-index: -1; /* Keeps the image behind the content */
+        z-index: -1;
+        /* Keeps the image behind the content */
     }
 
     .align-vertically-center {
         display: flex;
         flex-direction: column;
-        align-items: center; /* Vertically center the content */
-        justify-content: center; /* Center horizontally if needed */
-        height: 50vh; /* Full viewport height */
+        align-items: center;
+        /* Vertically center the content */
+        justify-content: center;
+        /* Center horizontally if needed */
+        height: 50vh;
+        /* Full viewport height */
         position: relative;
     }
 
     .home-banner-content {
-        text-align: left; /* Align text to the left */
-        color: white; /* Adjust color based on your design */
-        z-index: 1; /* Make sure the content is above the image */
-        padding: 0px 4%; /* Optional: Add padding if needed */
+        text-align: left;
+        /* Align text to the left */
+        color: white;
+        /* Adjust color based on your design */
+        z-index: 1;
+        /* Make sure the content is above the image */
+        padding: 0px 4%;
+        /* Optional: Add padding if needed */
     }
 
 
-    .left-panel-w{
+    .left-panel-w {
         width: 100%;
     }
 
-    .middle-graph{
+    .middle-graph {
         width: 100%;
     }
+
     .banner-title {
         color: #FFF;
         font-family: 'Poppins', sans-serif;
@@ -3154,7 +3222,7 @@ body {
         line-height: normal;
     }
 
-    .banner-sub-title{
+    .banner-sub-title {
         color: #FFF;
         font-family: 'Poppins', sans-serif;
         font-size: 13px;
@@ -3316,7 +3384,7 @@ body {
         justify-content: center;
     }
 
-    .become_nanay_icon_container_orange{
+    .become_nanay_icon_container_orange {
         width: 25px;
         height: 25px;
         border-radius: 50%;
