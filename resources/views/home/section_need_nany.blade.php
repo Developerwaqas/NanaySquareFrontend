@@ -115,7 +115,10 @@
 
                             </div>
                             <div class="mt-5">
-                                <button class="btn btn-contact-us">Find caregiver</button>
+                                <a href="https://app.nannysquare.com/register">
+                                    <button class="btn btn-contact-us">Find caregiver</button>
+                                </a>
+
                             </div>
                         </div>
                     </div>

@@ -6,7 +6,7 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome');
 // });
 
-Route::get('/terms_and_condition', function () {
+Route::get('/terms_and_services', function () {
     return view('terms_and_condition.index');
 });
 

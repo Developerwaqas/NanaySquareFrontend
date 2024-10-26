@@ -1,6 +1,6 @@
 <section class="m-1 m-lg-5 m-md-3 m-sm-1">
 
-    <div id="demo" class="carousel slide" data-bs-ride="carousel">
+    <div id="demo" class="carousel slide" data-bs-ride="carousel" data-bs-ride="carousel" data-bs-interval="8000">
         <div class="carousel-inner">
             <div class="carousel-item active p-relative">
                 <div class="align-vertically-center bg-info-slider-1">
@@ -73,13 +73,13 @@
                                     <div class=" mt-4">
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button class="btn btn-primary-custom-cogressive" type="submit">I Am
-                                                Caregiver</button>
+                                                Driver</button>
                                         </a>
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button
                                                 class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
                                                 type="submit">Find
-                                                Caregiver</button>
+                                                Driver</button>
                                         </a>
                                     </div>
                                 </div>
@@ -117,13 +117,13 @@
                                     <div class=" mt-4">
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button class="btn btn-primary-custom-cogressive" type="submit">I Am
-                                                Caregiver</button>
+                                                Gardener</button>
                                         </a>
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button
                                                 class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
                                                 type="submit">Find
-                                                Caregiver</button>
+                                                Gardener</button>
                                         </a>
                                     </div>
                                 </div>
@@ -163,13 +163,13 @@
                                     <div class=" mt-4">
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button class="btn btn-primary-custom-cogressive" type="submit">I Am
-                                                Caregiver</button>
+                                                Tutor</button>
                                         </a>
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button
                                                 class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
                                                 type="submit">Find
-                                                Caregiver</button>
+                                                Tutor</button>
                                         </a>
                                     </div>
                                 </div>
@@ -207,13 +207,13 @@
                                     <div class=" mt-4">
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button class="btn btn-primary-custom-cogressive" type="submit">I Am
-                                                Caregiver</button>
+                                                CleanGenie</button>
                                         </a>
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button
                                                 class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
                                                 type="submit">Find
-                                                Caregiver</button>
+                                                CleanGenie</button>
                                         </a>
                                     </div>
                                 </div>
@@ -251,20 +251,20 @@
                                     <div class=" mt-4">
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button class="btn btn-primary-custom-cogressive" type="submit">I Am
-                                                Caregiver</button>
+                                                Chefs</button>
                                         </a>
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button
                                                 class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
                                                 type="submit">Find
-                                                Caregiver</button>
+                                                Chefs</button>
                                         </a>
                                     </div>
                                 </div>
 
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                                     <div class="d-flex justify-content-end">
-                                        <img src="{{ asset('asset/images/slide6.png') }}" alt="slide"
+                                        <img src="{{ asset('asset/images/slide7.png') }}" alt="slide"
                                             class="slide-images-size">
                                     </div>
                                 </div>
@@ -295,20 +295,20 @@
                                     <div class=" mt-4">
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button class="btn btn-primary-custom-cogressive" type="submit">I Am
-                                                Caregiver</button>
+                                                Shopper</button>
                                         </a>
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button
                                                 class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
                                                 type="submit">Find
-                                                Caregiver</button>
+                                                Shopper</button>
                                         </a>
                                     </div>
                                 </div>
 
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                                     <div class="d-flex justify-content-end">
-                                        <img src="{{ asset('asset/images/slide7.png') }}" alt="slide"
+                                        <img src="{{ asset('asset/images/slide6.png') }}" alt="slide"
                                             class="slide-images-size">
                                     </div>
                                 </div>

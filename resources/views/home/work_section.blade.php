@@ -97,7 +97,7 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12 col-12">
                     <div class="d-flex align-items-center">
-                        <img src="{{ asset('asset/images/Shape.png') }}" alt="images" style="width: 90%; height: 100%;">
+                        <img src="{{ asset('asset/images/Shape.png') }}" alt="images" style="width: 80%; height: 100%;">
                         {{-- <div class="elpis_container"> <img src="{{ asset('asset/images/elips.png') }}" alt="elips"
                                 class="elips_img mr_4">
                             <div class="elips_text">

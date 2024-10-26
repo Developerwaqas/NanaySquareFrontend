@@ -81,13 +81,12 @@
                             <div><a href="/about_us" class="anker">About Us</a></div>
                             <div><a href="/services" class="anker">Service</a></div>
                             <div><a href="https://app.nannysquare.com/register" class="anker">Register</a></div>
-                            <div><a href="/terms_and_condition" class="anker">Terms and Service</a></div>
+                            <div><a href="/terms_and_services" class="anker">Terms and Service</a></div>
                         </div>
                         <div class="mt-4 d-flex justify-content-between text-white font_size_16 font_family_popins">
                             <div><a href="/blogs" class="anker">Blog</a></div>
                             <div><a href="/contact_us" class="anker">Contact us</a></div>
                             <div><a href="/security-privacy" class="anker">Security</a></div>
-                            <div><a href="/#help" class="anker">Help</a></div>
                             <div><a href="/privacy" class="anker">Privacy Policy</a></div>
                         </div>
                         <div class="d-flex justify-content-center">

@@ -44,6 +44,7 @@
                             Finding a nanny is a tedious task. Of course, you can't trust any random person to look
                             after your kid. As a parent, you're naturally cautious and want to be certain the person
                             you hire will actually take care of your child.
+
                         </div>
                     </div>
                     <div class="mt-4">
@@ -160,12 +161,18 @@
                     <div>
                         <div class="font_size_15 font_weight_400 font_family_popins color_grey_300 mx-3">
                             <div>
-                                Finding a nanny is a tedious task. Of course, you can’t trust any random person to look
-                                after
-                                your kid. As a parent, you’re naturally cautious and want to be certain the person you
-                                hire
-                                will
-                                actually take care of your child.
+                                Nanny Square was founded in 2022 by an immigrant couple from Nigeria who had a hard time
+                            finding care that they needed for their two young children. They also discovered that there
+                            was a culture mismatch with some of the care givers they found. With no family close by, it
+                            was difficult to raise their kids the way they wanted without having to sacrifice their
+                            careers. They understood that building a platform that connects immigrants with childcare
+                            tailored to their needs was a first step in providing the environment for success in a new
+                            country. They hope that Nanny Square will be that platform and environment for you and your
+                            family.
+                            <div class="mt-2">
+                                Nanny Square is a Limited Liability Company registered in the US state of Delaware.
+
+                            </div>
                             </div>
                             <div class="mt-4">
                                 person you hire will you’re naturally cautious and want to be certain the actually take
@@ -319,8 +326,13 @@
                 </div>
 
                 <div class="mt-5 d-flex mb-4">
-                    <button class="btn btn_services">Services</button>
-                    <button class="btn btn_contact_us mx-3">Contact Us</button>
+                    <a href="/services">
+                        <button class="btn btn_services">Services</button>
+                    </a>
+
+                    <a href="/contact_us">
+                        <button class="btn btn_contact_us mx-3">Contact Us</button>
+                    </a>
                 </div>
             </div>
             <div class="col-md-6">
@@ -346,7 +358,8 @@
                                     </div>
                                 </div>
                                 <div class="mx__20 mt-4">
-                                    <div class="font_family_popins font_size_30 font_weight_600 color_light_blue ml__30">
+                                    <div
+                                        class="font_family_popins font_size_30 font_weight_600 color_light_blue ml__30">
                                         Johnson
                                         Andrea</div>
                                     <div
@@ -369,7 +382,8 @@
                                     </div>
                                 </div>
                                 <div class="mx__20 mt-4">
-                                    <div class="font_family_popins font_size_30 font_weight_600 color_light_blue ml__30">
+                                    <div
+                                        class="font_family_popins font_size_30 font_weight_600 color_light_blue ml__30">
                                         Johnson
                                         Andrea</div>
                                     <div
@@ -392,7 +406,8 @@
                                     </div>
                                 </div>
                                 <div class="mx__20 mt-4">
-                                    <div class="font_family_popins font_size_30 font_weight_600 color_light_blue ml__30">
+                                    <div
+                                        class="font_family_popins font_size_30 font_weight_600 color_light_blue ml__30">
                                         Johnson
                                         Andrea</div>
                                     <div
@@ -415,7 +430,8 @@
                                     </div>
                                 </div>
                                 <div class="mx__20 mt-4">
-                                    <div class="font_family_popins font_size_30 font_weight_600 color_light_blue ml__30">
+                                    <div
+                                        class="font_family_popins font_size_30 font_weight_600 color_light_blue ml__30">
                                         Johnson
                                         Andrea</div>
                                     <div
