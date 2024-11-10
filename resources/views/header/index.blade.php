@@ -98,7 +98,7 @@
                 <li class="nav-item">
                     <a class="nav-link {{ request()->is('services') ? 'active' : '' }}" href="/services">Services</a>
                 </li>
-                
+
                 <li class="nav-item">
                     <a class="nav-link {{ request()->is('blog') ? 'active' : '' }}" href="/blog">Blog</a>
                 </li>
@@ -136,7 +136,7 @@
                 </div>
                 </a>
             </div>
-            <div class="d-flex ms-lg-auto mt-4">
+            <div class="d-flex ms-lg-auto mt-4" style="margin-left: -12px;">
                 <a href="https://app.nannysquare.com/login">
                     <button class="btn btn-primary-custom-login" type="submit">login</button>
                 </a>

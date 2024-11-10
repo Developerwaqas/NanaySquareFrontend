@@ -25,14 +25,14 @@
                                         loving
                                         environment.
                                     </div>
-                                    <div class=" mt-4">
+                                    <div class="mt-4">
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button class="btn btn-primary-custom-cogressive" type="submit">I Am
                                                 Caregiver</button>
                                         </a>
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button
-                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
+                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0  "
                                                 type="submit">Find
                                                 Caregiver</button>
                                         </a>
@@ -77,7 +77,7 @@
                                         </a>
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button
-                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
+                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0  "
                                                 type="submit">Find
                                                 Driver</button>
                                         </a>
@@ -121,7 +121,7 @@
                                         </a>
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button
-                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
+                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0  "
                                                 type="submit">Find
                                                 Gardener</button>
                                         </a>
@@ -167,7 +167,7 @@
                                         </a>
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button
-                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
+                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0  "
                                                 type="submit">Find
                                                 Tutor</button>
                                         </a>
@@ -211,7 +211,7 @@
                                         </a>
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button
-                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
+                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0  "
                                                 type="submit">Find
                                                 CleanGenie</button>
                                         </a>
@@ -255,7 +255,7 @@
                                         </a>
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button
-                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
+                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0  "
                                                 type="submit">Find
                                                 Chefs</button>
                                         </a>
@@ -299,7 +299,7 @@
                                         </a>
                                         <a href="https://app.nannysquare.com/register" class="anker">
                                             <button
-                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0 mt-lg-0 mt-md-0 mt-sm-3 mt-2"
+                                                class="btn btn-primary-custom-finder mx-lg-3 mx-md-1 mx-sm-0 mx-0  "
                                                 type="submit">Find
                                                 Shopper</button>
                                         </a>

@@ -2974,7 +2974,6 @@ body {
         font-size: 15px !important;
         font-weight: 600 !important;
         font-family: 'Poppins', sans-serif !important;
-        margin-bottom: 10px;
     }
 
     .btn-primary-custom-finder:hover {
@@ -3711,6 +3710,7 @@ body {
   @media (max-width: 480px) {
     .card-slider {
       min-width: 100%;
+      border-right: 0px solid #ccc;
     }
     button.prev {
         left: 5px;
