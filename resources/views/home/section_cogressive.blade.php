@@ -16,7 +16,7 @@
         </div>
         <div class="container justify-content-center">
             <div class="row mt-5">
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4" data-aos="zoom-in-left">
                     <div class="d-flex align-items-center">
                         <div>
                             <img src="{{ asset('asset/images/babysitter-team4.jpg.png') }}" alt="team" class="team_img">
@@ -63,7 +63,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4" data-aos="zoom-in-down">
                     <div class="d-flex align-items-center">
                         <div>
                             <img src="{{ asset('asset/images/babysitter-team6.jpg.png') }}" alt="team" class="team_img">
@@ -108,7 +108,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4" data-aos="zoom-in-right">
                     <div class="d-flex align-items-center">
                         <div>
                             <img src="{{ asset('asset/images/babysitter-team1.jpg.png') }}" alt="team" class="team_img">
@@ -153,7 +153,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 mt-4">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 mt-4" data-aos="zoom-in-left">
                     <div class="d-flex align-items-center">
                         <div>
                             <img src="{{ asset('asset/images/babysitter-team5.jpg.png') }}" alt="team" class="team_img">
@@ -199,7 +199,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 mt-4">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 mt-4" data-aos="zoom-in-down">
                     <div class="d-flex align-items-center">
                         <div>
                             <img src="{{ asset('asset/images/babysitter-team3.jpg.png') }}" alt="team" class="team_img">
@@ -244,7 +244,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 mt-4">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 mt-4" data-aos="zoom-in-right">
                     <div class="d-flex align-items-center">
                         <div>
                             <img src="{{ asset('asset/images/babysitter-team2.jpg.png') }}" alt="team" class="team_img">
@@ -293,4 +293,10 @@
             </div>
         </div>
     </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+
 </section>

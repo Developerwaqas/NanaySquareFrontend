@@ -1,6 +1,6 @@
 @extends('app_layout.app')
 @section('content')
-<section>
+<section data-aos="fade-up">
     <div class="header_section_bg_img vertically-center-45">
         <div class="d-flex justify-content-center ">
             <div>
@@ -26,7 +26,7 @@
 <section class="margin-bottom-100">
     <div class="container mt-5 mb-5">
         <div class="row">
-            <div class="col-sm-4 mb-4 mt-2">
+            <div class="col-sm-4 mb-4 mt-2" data-aos="zoom-in-up">
                 <a href="/services/details" class="anker-style">
                     <div class="services-card-bg">
                         <div class="services-overlay">
@@ -41,7 +41,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-sm-4 mb-4 mt-2">
+            <div class="col-sm-4 mb-4 mt-2" data-aos="zoom-in-up">
                 <a href="/services/details" class="anker-style">
                     <div class="services-card-bg-maid">
                         <div class="services-overlay">
@@ -56,7 +56,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-sm-4 mb-4 mt-2">
+            <div class="col-sm-4 mb-4 mt-2" data-aos="zoom-in-up">
                 <a href="/services/details" class="anker-style">
                     <div class="services-card-bg-cook">
                         <div class="services-overlay">
@@ -71,7 +71,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-sm-4 mb-4 mt-2">
+            <div class="col-sm-4 mb-4 mt-2" data-aos="zoom-in-down">
                 <a href="/services/details" class="anker-style">
                     <div class="services-card-bg-driver">
                         <div class="services-overlay">
@@ -86,7 +86,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-sm-4 mb-4 mt-2">
+            <div class="col-sm-4 mb-4 mt-2" data-aos="zoom-in-down">
                 <a href="/services/details" class="anker-style">
                     <div class="services-card-bg-gardening">
                         <div class="services-overlay">
@@ -100,7 +100,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-sm-4 mb-4 mt-2">
+            <div class="col-sm-4 mb-4 mt-2" data-aos="zoom-in-down">
                 <a href="/services/details" class="anker-style">
                     <div class="services-card-bg-shopper">
                         <div class="services-overlay">
@@ -114,7 +114,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-sm-4 mb-4 mt-2">
+            <div class="col-sm-4 mb-4 mt-2" data-aos="zoom-in-down">
                 <a href="/services/details" class="anker-style">
                     <div class="services-card-bg-baby">
                         <div class="services-overlay-bottom">
@@ -131,7 +131,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-sm-4 mb-4 mt-2">
+            <div class="col-sm-4 mb-4 mt-2" data-aos="zoom-in-down">
                 <a href="/services/details" class="anker-style">
                     <div class="services-card-bg-childcare">
                         <div class="services-overlay-bottom">
@@ -148,4 +148,9 @@
         </div>
     </div>
 </section>
+
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
 @endsection

@@ -1,6 +1,6 @@
 @extends('app_layout.app')
 @section('content')
-<section>
+<section data-aos="zoom-in-down">
     <div class="header_section_bg_img vertically-center-45">
         <div class="d-flex justify-content-center ">
             <div>
@@ -26,7 +26,7 @@
 <section class="">
     <div class="container mt-5 mb-5">
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-4" data-aos="zoom-in-left">
                 <div class="mb-4">
                     <div class="outer-border">
                         <div class="inner-box-header">
@@ -50,14 +50,14 @@
             </div>
             <div class="col-md-8">
                 <div>
-                    <div>
+                    <div data-aos="zoom-in-right">
                         <img src="{{ asset('asset/images/service-img1-1000x600.jpg.png') }}" alt="img"
                             class="img-details-card">
                     </div>
-                    <div class="details-title mt-4">
+                    <div class="details-title mt-4" data-aos="zoom-in-right">
                         Start Journey Finding Yourperfect Nanny.
                     </div>
-                    <div class="mt-4 details-content">
+                    <div class="mt-4 details-content" data-aos="zoom-in-right">
                         At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
                         deleniti atque corrupti
                         quos dolores et quas molestias excepturi sint occaecati cupiditate non provident. At vero eos et
@@ -65,7 +65,7 @@
                         dignissimos ducimus.
                     </div>
                     <div class="row mt-4">
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-aos="zoom-in-right">
                             <div>
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="tick_icon_container">
@@ -91,7 +91,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-aos="zoom-in-right">
                             <div>
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="tick_icon_container">
@@ -117,7 +117,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-aos="zoom-in-right">
                             <div>
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="tick_icon_container">
@@ -143,7 +143,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-aos="zoom-in-right">
                             <div>
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="tick_icon_container">
@@ -169,7 +169,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-aos="zoom-in-right">
                             <div>
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="tick_icon_container">
@@ -195,7 +195,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-aos="zoom-in-right">
                             <div>
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="tick_icon_container">
@@ -222,40 +222,40 @@
                             </div>
                         </div>
                     </div>
-                    <div class="details-title mt-5">
+                    <div class="details-title mt-5" data-aos="zoom-in-right">
                         The best nanny experience.
                     </div>
-                    <div class="mt-4 details-content">
+                    <div class="mt-4 details-content" data-aos="zoom-in-right">
                         Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis maiores alias consequatur
                         aut perferendis doloribus
                         asperiores repellat
                     </div>
                     <div class="row mt-3">
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-aos="zoom-in-right">
                             <div>
                                 <img src="{{ asset('asset/images/home1-slide1.png') }}" alt="img"
                                     class="details-sub-images">
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-aos="zoom-in-right">
                             <div>
                                 <img src="{{ asset('asset/images/home1-slide2.png') }}" alt="img"
                                     class="details-sub-images">
                             </div>
                         </div>
                     </div>
-                    <div>
+                    <div data-aos="zoom-in-right">
                         <div class="details-title mt-4">
                             All your nanny for a better value.
                         </div>
                     </div>
-                    <div class="mt-5">
+                    <div class="mt-5" data-aos="zoom-in-right">
                         {{-- accordions --}}
                         @include('services.details.accordions')
                     </div>
                     <div>
                         <div class="row mt-5">
-                            <div class="col-md-6 mb-4">
+                            <div class="col-md-6 mb-4" data-aos="zoom-in-left">
                                 <div class="d-flex align-items-center">
                                     <div>
                                         <img src="{{ asset('asset/images/babysitter-team4.jpg.png') }}" alt="team"
@@ -270,7 +270,8 @@
                                             Manager
                                         </div>
                                         <div class="mt-4 d-flex">
-                                            <a href="https://www.facebook.com/profile.php?id=100088067353309" class="anker">
+                                            <a href="https://www.facebook.com/profile.php?id=100088067353309"
+                                                class="anker">
 
                                                 <div class="social_icons_container">
                                                     <div class="d-flex justify-content-center">
@@ -284,7 +285,8 @@
                                                 <div class="social_icons_container mx-3">
                                                     <div class="d-flex justify-content-center">
                                                         <div class="vertically_midle">
-                                                            <i class="fa-brands fa-instagram icons_size_contact color_theme"></i>
+                                                            <i
+                                                                class="fa-brands fa-instagram icons_size_contact color_theme"></i>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -294,7 +296,8 @@
                                                 <div class="social_icons_container">
                                                     <div class="d-flex justify-content-center">
                                                         <div class="vertically_midle">
-                                                            <i class='fa-brands fa-linkedin-in color_theme icons_size_contact'></i>
+                                                            <i
+                                                                class='fa-brands fa-linkedin-in color_theme icons_size_contact'></i>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -305,7 +308,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-6 mb-4">
+                            <div class="col-md-6 mb-4" data-aos="zoom-in-right">
                                 <div class="d-flex align-items-center">
                                     <div>
                                         <img src="{{ asset('asset/images/babysitter-team6.jpg.png') }}" alt="team"
@@ -320,7 +323,8 @@
                                             NANY
                                         </div>
                                         <div class="mt-4 d-flex">
-                                            <a href="https://www.facebook.com/profile.php?id=100088067353309" class="anker">
+                                            <a href="https://www.facebook.com/profile.php?id=100088067353309"
+                                                class="anker">
 
                                                 <div class="social_icons_container">
                                                     <div class="d-flex justify-content-center">
@@ -334,7 +338,8 @@
                                                 <div class="social_icons_container mx-3">
                                                     <div class="d-flex justify-content-center">
                                                         <div class="vertically_midle">
-                                                            <i class="fa-brands fa-instagram icons_size_contact color_theme"></i>
+                                                            <i
+                                                                class="fa-brands fa-instagram icons_size_contact color_theme"></i>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -344,7 +349,8 @@
                                                 <div class="social_icons_container">
                                                     <div class="d-flex justify-content-center">
                                                         <div class="vertically_midle">
-                                                            <i class='fa-brands fa-linkedin-in color_theme icons_size_contact'></i>
+                                                            <i
+                                                                class='fa-brands fa-linkedin-in color_theme icons_size_contact'></i>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -355,7 +361,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-6 mb-4 mt-4">
+                            <div class="col-md-6 mb-4 mt-4" data-aos="zoom-in-left">
                                 <div class="d-flex align-items-center">
                                     <div>
                                         <img src="{{ asset('asset/images/babysitter-team1.jpg.png') }}" alt="team"
@@ -370,7 +376,8 @@
                                             Bebysitter
                                         </div>
                                         <div class="mt-4 d-flex">
-                                            <a href="https://www.facebook.com/profile.php?id=100088067353309" class="anker">
+                                            <a href="https://www.facebook.com/profile.php?id=100088067353309"
+                                                class="anker">
 
                                                 <div class="social_icons_container">
                                                     <div class="d-flex justify-content-center">
@@ -384,7 +391,8 @@
                                                 <div class="social_icons_container mx-3">
                                                     <div class="d-flex justify-content-center">
                                                         <div class="vertically_midle">
-                                                            <i class="fa-brands fa-instagram icons_size_contact color_theme"></i>
+                                                            <i
+                                                                class="fa-brands fa-instagram icons_size_contact color_theme"></i>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -394,7 +402,8 @@
                                                 <div class="social_icons_container">
                                                     <div class="d-flex justify-content-center">
                                                         <div class="vertically_midle">
-                                                            <i class='fa-brands fa-linkedin-in color_theme icons_size_contact'></i>
+                                                            <i
+                                                                class='fa-brands fa-linkedin-in color_theme icons_size_contact'></i>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -405,7 +414,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-6 mb-4 mt-4">
+                            <div class="col-md-6 mb-4 mt-4" data-aos="zoom-in-right">
                                 <div class="d-flex align-items-center">
                                     <div>
                                         <img src="{{ asset('asset/images/babysitter-team5.jpg.png') }}" alt="team"
@@ -420,7 +429,8 @@
                                             babycare
                                         </div>
                                         <div class="mt-4 d-flex">
-                                            <a href="https://www.facebook.com/profile.php?id=100088067353309" class="anker">
+                                            <a href="https://www.facebook.com/profile.php?id=100088067353309"
+                                                class="anker">
 
                                                 <div class="social_icons_container">
                                                     <div class="d-flex justify-content-center">
@@ -434,7 +444,8 @@
                                                 <div class="social_icons_container mx-3">
                                                     <div class="d-flex justify-content-center">
                                                         <div class="vertically_midle">
-                                                            <i class="fa-brands fa-instagram icons_size_contact color_theme"></i>
+                                                            <i
+                                                                class="fa-brands fa-instagram icons_size_contact color_theme"></i>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -444,7 +455,8 @@
                                                 <div class="social_icons_container">
                                                     <div class="d-flex justify-content-center">
                                                         <div class="vertically_midle">
-                                                            <i class='fa-brands fa-linkedin-in color_theme icons_size_contact'></i>
+                                                            <i
+                                                                class='fa-brands fa-linkedin-in color_theme icons_size_contact'></i>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -458,7 +470,7 @@
                         </div>
                     </div>
                 </div>
-                <div>
+                <div data-aos="zoom-in-right">
                     <div class="d-flex align-items-center morning-btn mt-5">
                         <div>
                             <img src="{{asset('asset/images/back.png')}}" alt="img" class="back-img">
@@ -470,4 +482,9 @@
         </div>
     </div>
 </section>
+
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+    AOS.init();
+</script>
 @endsection

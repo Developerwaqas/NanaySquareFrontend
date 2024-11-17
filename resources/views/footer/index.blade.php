@@ -11,7 +11,7 @@
                             </div>
 
 
-                            <div class="sm_flex_wrap">
+                            <div class="">
                                 {{-- phone --}}
                                 <div class="d-flex align-items-center mt-4">
                                     <div class="phone_container_footer">
@@ -70,15 +70,15 @@
                     </div>
                 </div>
                 <div class="col-lg-6 mx_border">
-                    <div class="mx-5">
+                    <div class="lg:mx-5">
                         <div class="d-flex justify-content-center">
                             <img src="{{ asset('asset/images/Logo.png') }}" alt="logo" class="logo_footer" />
                         </div>
-                        <div class="mt-5 d-flex justify-content-between text-white font_size_16 font_family_popins">
+                        <div class="mt-5 d-flex flex-wrap justify-content-between text-white font_size_16 font_family_popins">
                             <div>
                                 <a href="/" class="anker">Home</a>
                             </div>
-                            <div><a href="/about_us" class="anker">About Us</a></div>
+                            <div><a href="/about_us" class="anker ">About Us</a></div>
                             <div><a href="/services" class="anker">Service</a></div>
                             <div><a href="https://app.nannysquare.com/register" class="anker">Register</a></div>
                             <div><a href="/terms_and_services" class="anker">Terms and Service</a></div>

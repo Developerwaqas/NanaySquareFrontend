@@ -13,7 +13,7 @@
             <div class="slider-container mt-5">
                 <div class="slider">
                     <!-- card-sliders here -->
-                    <div class="card-slider">
+                    <div class="card-slider"  data-aos="zoom-in-down">
                         <div class="offer-card-slider">
                             <div>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70"
@@ -40,7 +40,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card-slider">
+                    <div class="card-slider"  data-aos="zoom-in-up">
                         <div class="offer-card-slider">
                             <div>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="71" height="70" viewBox="0 0 71 70"
@@ -60,7 +60,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card-slider">
+                    <div class="card-slider"  data-aos="zoom-in-left">
                         <div class="offer-card-slider">
                             <div>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="71" height="70" viewBox="0 0 71 70"
@@ -88,7 +88,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card-slider">
+                    <div class="card-slider"  data-aos="zoom-in-right">
                         <div class="offer-card-slider">
                             <div>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="71" height="70" viewBox="0 0 71 70"
@@ -116,7 +116,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card-slider">
+                    <div class="card-slider"  data-aos="zoom-in-down">
                         <div class="offer-card-slider">
                             <div>
                             <img src="{{asset('asset/images/driver.png')}}" alt="img" style="width:80px; height:80px;" />
@@ -132,7 +132,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card-slider">
+                    <div class="card-slider"  data-aos="zoom-in-down">
                         <div class="offer-card-slider">
                             <div>
                                 <img src="{{asset('asset/images/house.png')}}" alt="img" style="width:100px; height:80px;" />
@@ -160,6 +160,10 @@
     </div>
 </section>
 
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+    AOS.init();
+</script>
 
 <script>
     let currentSlide = 0;

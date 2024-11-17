@@ -97,7 +97,7 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12 col-12">
                     <div class="d-flex align-items-center">
-                        <img src="{{ asset('asset/images/Shape.png') }}" alt="images" style="width: 80%; height: 100%;">
+                        <img src="{{ asset('asset/images/Shape.png') }}" alt="images" style="width: 95%; height: 100%;">
                         {{-- <div class="elpis_container"> <img src="{{ asset('asset/images/elips.png') }}" alt="elips"
                                 class="elips_img mr_4">
                             <div class="elips_text">
@@ -118,7 +118,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12 col-12">
-                    <div class="row sm_ml_5 align-items-end">
+                    <div class="row sm_mr_5 align-items-end">
                         <div class="col-lg-10">
                             <div class="mt-4">
                                 <div class="box_work_section_right mr__10">

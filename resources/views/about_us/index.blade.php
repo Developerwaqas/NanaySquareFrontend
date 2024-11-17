@@ -1,6 +1,6 @@
 @extends('app_layout.app')
 @section('content')
-<section>
+<section data-aos="fade-up">
     <div class="header_section_bg_img vertically-center-45">
         <div class="d-flex justify-content-center ">
             <div>
@@ -23,7 +23,7 @@
         </div>
     </div>
 </section>
-<section>
+<section data-aos="fade-up">
     <div class="bg_about_choose_section">
         <div class="container">
             <div class="row">
@@ -38,17 +38,22 @@
                         <div class="font_size_15 font_weight_400 font_family_popins color_grey_300 mx-3">
                             <div>
                                 Nanny Square was founded in 2022 by an immigrant couple from Nigeria who had a hard time
-                            finding care that they needed for their two young children. They also discovered that there
-                            was a culture mismatch with some of the care givers they found. With no family close by, it
-                            was difficult to raise their kids the way they wanted without having to sacrifice their
-                            careers. They understood that building a platform that connects immigrants with childcare
-                            tailored to their needs was a first step in providing the environment for success in a new
-                            country. They hope that Nanny Square will be that platform and environment for you and your
-                            family.
-                            <div class="mt-2">
-                                Nanny Square is a Limited Liability Company registered in the US state of Delaware.
+                                finding care that they needed for their two young children. They also discovered that
+                                there
+                                was a culture mismatch with some of the care givers they found. With no family close by,
+                                it
+                                was difficult to raise their kids the way they wanted without having to sacrifice their
+                                careers. They understood that building a platform that connects immigrants with
+                                childcare
+                                tailored to their needs was a first step in providing the environment for success in a
+                                new
+                                country. They hope that Nanny Square will be that platform and environment for you and
+                                your
+                                family.
+                                <div class="mt-2">
+                                    Nanny Square is a Limited Liability Company registered in the US state of Delaware.
 
-                            </div>
+                                </div>
                             </div>
                             <div class="mt-4">
                                 person you hire will you’re naturally cautious and want to be certain the actually take
@@ -179,7 +184,7 @@
         </div>
     </div>
 </section>
-<section>
+<section data-aos="fade-up">
     <div class="container mt-25">
         <div class="row p-20 align-items-center">
             <div class="col-md-5">
@@ -305,7 +310,7 @@
 </section>
 
 
-<section>
+<section data-aos="fade-up">
     <div class="container mt_100 mb_100">
         <div class="row">
             <div class="col-md-6">
@@ -345,7 +350,7 @@
     </div>
 </section>
 
-<section>
+<section data-aos="fade-up">
     <div class="about_us_page_slider_bg">
         <div class="">
             <div class="slide-container swiper">
@@ -457,6 +462,11 @@
         </div>
     </div>
 
+
+    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
     <!-- Swiper JS -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 

@@ -9,7 +9,7 @@
         </div>
         <div class="d-flex align-items-center">
             <div class="row mt-55" id="testimonial-container">
-                <div class="col-md-4 mb-5 mb-sm-15">
+                <div class="col-md-4 mb-5 mb-sm-15" data-aos="zoom-out-up">
                     <div class="client_say_box">
                         <div class="d-flex justify-content-between">
                             <div class="container_ether_icon">
@@ -32,7 +32,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 mb-5 mb-sm-15">
+                <div class="col-md-4 mb-5 mb-sm-15" data-aos="zoom-out-up">
                     <div class="client_say_box_green">
                         <div class="d-flex justify-content-between">
                             <div class="container_ether_icon">
@@ -55,7 +55,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 mb-5 mb-sm-15">
+                <div class="col-md-4 mb-5 mb-sm-15" data-aos="zoom-out-up">
                     <div class="client_say_box_orang">
                         <div class="d-flex justify-content-between">
                             <div class="container_ether_icon">
@@ -77,7 +77,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 mb-5 mb-sm-15 mt-5 hidden">
+                <div class="col-md-4 mb-5 mb-sm-15 mt-5 hidden" data-aos="zoom-out-up">
                     <div class="client_say_box_blue">
                         <div class="d-flex justify-content-between">
                             <div class="container_ether_icon">
@@ -101,7 +101,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 mb-5 mb-sm-15 mt-5 hidden">
+                <div class="col-md-4 mb-5 mb-sm-15 mt-5 hidden" data-aos="zoom-out-up">
                     <div class="client_say_box_greenish">
                         <div class="d-flex justify-content-between">
                             <div class="container_ether_icon">
@@ -126,7 +126,7 @@
             </div>
 
         </div>
-        <div class="d-flex justify-content-center mb-5">
+        <div class="d-flex justify-content-center mb-5" data-aos="zoom-out-up">
             <div class="">
                 <button class="btn btn-primary-custom" id="toggle-btn" type="submit">Load More</button>
             </div>

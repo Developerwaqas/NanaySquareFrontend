@@ -1,6 +1,15 @@
 <section class="m-1 m-lg-5 m-md-3 m-sm-1">
 
-    <div id="demo" class="carousel slide" data-bs-ride="carousel" data-bs-ride="carousel" data-bs-interval="8000">
+    <div id="demo" class="carousel slide homeslider" data-bs-ride="carousel" data-bs-ride="carousel" data-bs-interval="8000">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#demo" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#demo" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            <button type="button" data-bs-target="#demo" data-bs-slide-to="3" aria-label="Slide 4"></button>
+            <button type="button" data-bs-target="#demo" data-bs-slide-to="4" aria-label="Slide 5"></button>
+            <button type="button" data-bs-target="#demo" data-bs-slide-to="5" aria-label="Slide 6"></button>
+            <button type="button" data-bs-target="#demo" data-bs-slide-to="6" aria-label="Slide 7"></button>
+        </div>
         <div class="carousel-inner">
             <div class="carousel-item active p-relative">
                 <div class="align-vertically-center bg-info-slider-1">
@@ -40,7 +49,7 @@
                                 </div>
 
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                                    <div class="d-flex justify-content-end">
+                                    <div class="d-flex lg:justify-content-end">
                                         <img src="{{ asset('asset/images/slide1.png') }}" alt="slide"
                                             class="slide-images-size">
                                     </div>
@@ -85,7 +94,7 @@
                                 </div>
 
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                                    <div class="d-flex justify-content-end">
+                                    <div class="d-flex lg:justify-content-end">
                                         <img src="{{ asset('asset/images/slide2.png') }}" alt="slide"
                                             class="slide-images-size">
                                     </div>
@@ -129,7 +138,7 @@
                                 </div>
 
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                                    <div class="d-flex justify-content-end">
+                                    <div class="d-flex lg:justify-content-end">
                                         <img src="{{ asset('asset/images/slide3.png') }}" alt="slide"
                                             class="slide-images-size">
                                     </div>
@@ -175,7 +184,7 @@
                                 </div>
 
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                                    <div class="d-flex justify-content-end">
+                                    <div class="d-flex lg:justify-content-end">
                                         <img src="{{ asset('asset/images/slide4.png') }}" alt="slide"
                                             class="slide-images-size">
                                     </div>
@@ -219,7 +228,7 @@
                                 </div>
 
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                                    <div class="d-flex justify-content-end">
+                                    <div class="d-flex lg:justify-content-end">
                                         <img src="{{ asset('asset/images/slide5.png') }}" alt="slide"
                                             class="slide-images-size">
                                     </div>
@@ -263,7 +272,7 @@
                                 </div>
 
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                                    <div class="d-flex justify-content-end">
+                                    <div class="d-flex lg:justify-content-end">
                                         <img src="{{ asset('asset/images/slide7.png') }}" alt="slide"
                                             class="slide-images-size">
                                     </div>
@@ -307,7 +316,7 @@
                                 </div>
 
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                                    <div class="d-flex justify-content-end">
+                                    <div class="d-flex lg:justify-content-end">
                                         <img src="{{ asset('asset/images/slide6.png') }}" alt="slide"
                                             class="slide-images-size">
                                     </div>
@@ -320,5 +329,7 @@
                 </div>
             </div>
         </div>
+
+
     </div>
 </section>

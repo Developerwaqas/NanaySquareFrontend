@@ -1,15 +1,22 @@
 @extends('app_layout.app')
 @section('content')
-@include('home.home_slider')
-@include('home.section_what_we_do')
-<div class="mt-5">
+<div data-aos="fade-up">
+    @include('home.home_slider')
+</div>
+<div data-aos="fade-up">
+    @include('home.section_what_we_do')
+</div>
+<div class="mt-5" data-aos="fade-up">
     @include('home.section_need_nany')
 </div>
 
-@include('home.work_section')
+<div data-aos="fade-up">
+    @include('home.work_section')
+</div>
+
 {{-- Want toBecome Nanny --}}
 
-<section class="">
+<section class="" data-aos="fade-up">
     <div>
         <div class="container mt-25">
             <div class="d-flex align-items-end justify-content-between">
@@ -165,11 +172,11 @@
     </div>
 </section>
 {{-- section cogressive --}}
-<div>
+<div data-aos="fade-up">
     @include('home.section_cogressive')
 </div>
 
-<section class="mt-59 mb-5">
+<section class="mt-59 mb-5" data-aos="fade-up">
     <div class="container">
         <div class="bg_navy_blue">
             <div class="row">
@@ -232,15 +239,15 @@
     </div>
 </section>
 
-<div>
+<div data-aos="fade-up">
     @include('home.section_testimanial')
 </div>
 
-<div>
+<div data-aos="fade-up">
     @include('home.section_care_provider')
 </div>
 
-<section class="blog-mt-150 mb-5" id="blog">
+<section class="blog-mt-150 mb-5" id="blog" data-aos="fade-up">
     <div class="container">
         <div class="d-flex justify-content-center">
             <div class="bage_title font_size_15 font_family_popins font_weight_600">blog post</div>
@@ -251,7 +258,7 @@
         </div>
         <div class=" mt-5">
             <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4" data-aos="zoom-in-up">
                     <div class="">
                         <div>
                             <div class="image-container"><img
@@ -304,7 +311,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4" data-aos="zoom-in-up">
                     <div class="">
                         <div class="">
                             <div>
@@ -361,7 +368,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4" data-aos="zoom-in-up">
                     <div class="">
                         <div class="">
                             <div>
@@ -431,4 +438,8 @@
     </div>
     </div>
 </section>
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+    AOS.init();
+</script>
 @endsection

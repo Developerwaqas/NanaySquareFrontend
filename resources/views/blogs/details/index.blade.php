@@ -1,6 +1,6 @@
 @extends('app_layout.app')
 @section('content')
-<section>
+<section data-aos="zoom-in-down">
     <div class="header_section_bg_img vertically-center-45">
         <div class="d-flex justify-content-center ">
             <div>
@@ -30,25 +30,25 @@
         </div>
     </div>
 </section>
-<section class="">
+<section class="" >
     <div class="container mt-5 mb-5">
         <div class="row">
 
             <div class="col-md-8">
                 <div>
-                    <div class="p-relative">
+                    <div class="p-relative" data-aos="zoom-in-down">
                         <img src="{{ asset('asset/images/service-img6-1000x600.jpg.png') }}" alt="img"
                             class="img-details-card">
                         <div class="position-absolute">
-                           <div class="user-container-post">
-                            <img src="{{ asset('asset/images/Symbol.png') }}" alt="user" class="userSymbol">
-                            <div class="post-user-role">
-                                admin
+                            <div class="user-container-post">
+                                <img src="{{ asset('asset/images/Symbol.png') }}" alt="user" class="userSymbol">
+                                <div class="post-user-role">
+                                    admin
+                                </div>
                             </div>
-                           </div>
                         </div>
                     </div>
-                    <div class="d-flex aling-items-center flex-wrap mt-3">
+                    <div class="d-flex aling-items-center flex-wrap mt-3" data-aos="zoom-in-down">
                         <div class="d-flex align-items-center">
                             <div>
                                 <img src="{{ asset('asset/images/Symbol (6).png') }}" alt="" class="post-symbols-icons">
@@ -82,7 +82,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="mt-4 details-content">
+                    <div class="mt-4 details-content" data-aos="zoom-in-down">
                         Faucibus interdum posuere habitant morbi tristique senectus netus et malesuada. Euismod nisi
                         porta lorem mollis aliquam
                         ut porttitor.Faucibus interdum posuere habitant morbi tristique senectus netus Faucibus interdum
@@ -91,7 +91,7 @@
                         porttitor.Faucibus interdum posuere
                         habitant morbi tristique senectus netus.
                     </div>
-                    <div class="author-card mt-4">
+                    <div class="author-card mt-4" data-aos="zoom-in-down">
                         <div class="d-flex align-items-center">
                             <div><svg xmlns="http://www.w3.org/2000/svg" width="66" height="32" viewBox="0 0 66 32"
                                     fill="none">
@@ -108,45 +108,45 @@
                             – John Deo
                         </div>
                     </div>
-                    <div class="mt-4 details-content">
-                        Faucibus interdum posuere habitant morbi tristique senectus netus et malesuada Euismod    morbi 
-                        senectus netus 
+                    <div class="mt-4 details-content" data-aos="zoom-in-down">
+                        Faucibus interdum posuere habitant morbi tristique senectus netus et malesuada Euismod    morbi
+                        senectus netus
                         interdum posuere habitant morbi tristique senectus netus et malesuada. Euismod nisi porta lorem
                         mollis aliquam porttitor
                         Faucibus interdum posuere habitant morbi tristique senectus netus.
                     </div>
 
-                    <div class="post-details-title mt-5">
+                    <div class="post-details-title mt-5" data-aos="zoom-in-down">
                         Supporting your Pregnancy Journ
                     </div>
-                    <div class="mt-4 details-content">
+                    <div class="mt-4 details-content" data-aos="zoom-in-down">
                         Faucibus interdum posuere habitant morbi tristique senectus netus et malesuada. Euismod nisi
                         porta lorem mollis aliquam
                         ut porttitor.Faucibus interdum posuere habitant morbi tristique senectus netus Faucibus
                         interdum.
                     </div>
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-aos="zoom-in-down">
                             <div>
                                 <img src="{{ asset('asset/images/service-img7-768x640.jpg.png') }}" alt="img"
                                     class="details-sub-images">
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-aos="zoom-in-down">
                             <div>
                                 <img src="{{ asset('asset/images/service-img6-768x640.jpg.png') }}" alt="img"
                                     class="details-sub-images">
                             </div>
                         </div>
                     </div>
-                    <div class="details-content">
+                    <div class="details-content" data-aos="zoom-in-down">
                         Faucibus interdum posuere habitant morbi tristique senectus netus et malesuada. Euismod nisi
                         porta lorem mollis aliquam
                         ut porttitor.Faucibus interdum posuere habitant morbi tristique senectus netus Faucibus
                         interdum.
                     </div>
                 </div>
-                <div class="d-flex justify-content-between align-items-center mt-4 babysitter-container">
+                <div data-aos="zoom-in-down" class="d-flex justify-content-between align-items-center mt-4 babysitter-container">
                     <div>
                         <button class="btn btn-babysitter">babysitter</button>
                     </div>
@@ -156,31 +156,31 @@
                         </div>
                         <div class="d-flex">
                             <a href="https://www.facebook.com/profile.php?id=100088067353309" class="anker">
-                            <div class="social_icons_container">
-                                <div class="d-flex justify-content-center">
-                                    <div class="vertically_midle">
-                                        <i class="fa-brands fa-facebook-f color_theme"></i>
+                                <div class="social_icons_container">
+                                    <div class="d-flex justify-content-center">
+                                        <div class="vertically_midle">
+                                            <i class="fa-brands fa-facebook-f color_theme"></i>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
                             </a>
                             <a href="https://www.instagram.com/nanny.square/" class="anker">
-                            <div class="social_icons_container mx-3">
-                                <div class="d-flex justify-content-center">
-                                    <div class="vertically_midle">
-                                        <i class="fa-brands fa-instagram icons_size_contact color_theme"></i>
+                                <div class="social_icons_container mx-3">
+                                    <div class="d-flex justify-content-center">
+                                        <div class="vertically_midle">
+                                            <i class="fa-brands fa-instagram icons_size_contact color_theme"></i>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
                             </a>
                             <a href="https://www.linkedin.com/company/nanny-square/" class="anker">
-                            <div class="social_icons_container">
-                                <div class="d-flex justify-content-center">
-                                    <div class="vertically_midle">
-                                        <i class='fa-brands fa-linkedin-in color_theme icons_size_contact'></i>
+                                <div class="social_icons_container">
+                                    <div class="d-flex justify-content-center">
+                                        <div class="vertically_midle">
+                                            <i class='fa-brands fa-linkedin-in color_theme icons_size_contact'></i>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
                             </a>
 
                         </div>
@@ -189,7 +189,7 @@
                 <div>
 
                     <div class="row mt-5">
-                        <div class="col-md-12">
+                        <div class="col-md-12" data-aos="zoom-in-down">
                             <div>
                                 <div
                                     class="font_size_35 line_height_43 color_theme font_weight_400 font_family_Paytone">
@@ -255,7 +255,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="mb-4">
+                <div class="mb-4" data-aos="zoom-in-down">
                     <div class="outer-border">
                         <div class="inner-box-header">
                             <div class="d-flex align-items-center">
@@ -264,19 +264,20 @@
                             </div>
                         </div>
                         <div class="inner-box">
-                           <div>
-                            <div class="input-group group_bg_white">
-                                <input type="text" class="form-control custom_form_control_post search-input"
-                                    placeholder="Search...">
-                                <button class="btn search-icon">
-                                    <i class="fas fa-search color_black"  style="font-weight: 700; font-size: 1.2rem;"></i>
-                                </button>
+                            <div>
+                                <div class="input-group group_bg_white">
+                                    <input type="text" class="form-control custom_form_control_post search-input"
+                                        placeholder="Search...">
+                                    <button class="btn search-icon">
+                                        <i class="fas fa-search color_black"
+                                            style="font-weight: 700; font-size: 1.2rem;"></i>
+                                    </button>
+                                </div>
                             </div>
-                           </div>
                         </div>
                     </div>
                 </div>
-                <div class="mb-4">
+                <div class="mb-4" data-aos="zoom-in-down">
                     <div class="outer-border">
                         <div class="inner-box-header">
                             <div class="d-flex align-items-center">
@@ -332,7 +333,7 @@
                     </div>
                 </div>
 
-                <div class="mb-4">
+                <div class="mb-4" data-aos="zoom-in-down">
                     <div class="outer-border">
                         <div class="inner-box-header">
                             <div class="d-flex align-items-center">
@@ -380,4 +381,9 @@
         </div>
     </div>
 </section>
+
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+    AOS.init();
+</script>
 @endsection

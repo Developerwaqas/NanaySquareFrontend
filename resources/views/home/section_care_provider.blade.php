@@ -9,7 +9,7 @@
         </div>
         <div class="d-flex align-items-center">
             <div class="row mt-55 d-flex align-items-stretch">
-                <div class="col-md-4 mb-5 mb-sm-15">
+                <div class="col-md-4 mb-5 mb-sm-15" data-aos="zoom-in-up">
                     <div class="client_say_box m_h_300">
                         <div class="d-flex justify-content-between">
                             <div class="container_ether_icon">
@@ -31,7 +31,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 mb-5 mb-sm-15">
+                <div class="col-md-4 mb-5 mb-sm-15" data-aos="zoom-in-up">
                     <div class="client_say_box_green m_h_300">
                         <div class="d-flex justify-content-between">
                             <div class="container_ether_icon">
@@ -52,7 +52,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 mb-5 mb-sm-15">
+                <div class="col-md-4 mb-5 mb-sm-15" data-aos="zoom-in-up">
                     <div class="client_say_box_orang m_h_300">
                         <div class="d-flex justify-content-between">
                             <div class="container_ether_icon">
@@ -75,4 +75,9 @@
 
         </div>
     </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
 </section>

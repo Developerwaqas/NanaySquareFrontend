@@ -1,6 +1,6 @@
 @extends('app_layout.app')
 @section('content')
-<section>
+<section data-aos="zoom-in">
     <div class="header_section_bg_img vertically-center-45">
         <div class="d-flex justify-content-center ">
             <div>
@@ -26,7 +26,7 @@
 <section style="margin-bottom: 150px;">
     <div class="container">
         <div class="row">
-            <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4">
+            <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4" data-aos="zoom-in">
                 <a href="/blogs/details" class="anker-style">
                     <div class="">
                         <div>
@@ -81,7 +81,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4">
+            <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4" data-aos="zoom-in">
                 <a href="/blogs/details" class="anker-style">
                     <div class="">
                         <div class="">
@@ -140,7 +140,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4">
+            <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4" data-aos="zoom-in">
                 <a href="/blogs/details" class="anker-style">
                     <div class="">
                         <div class="">
@@ -200,7 +200,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4">
+            <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4" data-aos="zoom-in-down">
                 <a href="/blogs/details" class="anker-style">
                     <div class="">
                         <div class="">
@@ -259,7 +259,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4">
+            <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4" data-aos="zoom-in-down">
                 <a href="/blogs/details" class="anker-style">
                     <div class="">
                         <div class="">
@@ -318,7 +318,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4">
+            <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4" data-aos="zoom-in-down">
                 <a href="/blogs/details" class="anker-style">
                     <div class="">
                         <div class="">
@@ -382,4 +382,9 @@
     </div>
     </div>
 </section>
+
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+    AOS.init();
+</script>
 @endsection

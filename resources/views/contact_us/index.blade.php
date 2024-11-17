@@ -1,6 +1,6 @@
 @extends('app_layout.app')
 @section('content')
-<section>
+<section data-aos="zoom-in-down">
     <div class="header_section_bg_img vertically-center-45">
         <div class="d-flex justify-content-center ">
             <div>
@@ -26,7 +26,7 @@
 <section>
     <div class="container mt-25">
         <div class="row  p-25">
-            <div class="col-md-6">
+            <div class="col-md-6" data-aos="zoom-in-left">
                 {{-- email --}}
                 <div class="d-flex align-items-center mt-5">
                     <div class="email_container">
@@ -114,7 +114,7 @@
 
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6" data-aos="zoom-in-right">
                 <div class="mt-4">
                     <form action="#">
                         <div class="mb-4">
@@ -150,18 +150,21 @@
     </div>
 </section>
 
-<section class="mt-20">
+<section class="mt-20" data-aos="zoom-in-down">
     <div class="mapouter">
         <div class="gmap_canvas"><iframe width="100%" height="560" id="gmap_canvas"
                 src="https://maps.google.com/maps?q=636+5th+Ave%2C+New+York&t=&z=9&ie=UTF8&iwloc=&output=embed"
                 frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a
-                href="https://www.analarmclock.com"></a><br><a href="https://www.onclock.net"></a><br>
-            <a href="https://www.ongooglemaps.com">google maps embed iframe</a>
+                href="https://www.analarmclock.com"></a><br><a href="https://www.onclock.net"></a>
+            {{-- <a href="https://www.ongooglemaps.com">google maps embed iframe</a> --}}
 
         </div>
     </div>
 </section>
 
-
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+    AOS.init();
+</script>
 
 @endsection
